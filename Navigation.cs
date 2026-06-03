@@ -75,6 +75,7 @@ namespace SMT.EVEData
         {
             ClearZarzakhConnections();
 
+            if (zazahkSystems == null) return;
             foreach (string ts in zazahkSystems)
             {
                 MapNodes[ts].ZarzakhConnections = zazahkSystems;
@@ -709,6 +710,8 @@ namespace SMT.EVEData
 
         public static void UpdateJumpBridges(List<JumpBridge> jumpBridges)
         {
+            if (jumpBridges == null) return;
+
             foreach (JumpBridge jb in jumpBridges)
             {
                 if (jb.Disabled)

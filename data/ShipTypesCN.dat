@@ -5,7 +5,7 @@
       <string>582</string>
     </key>
     <value>
-      <string>Bantam</string>
+      <string>矮脚鸡级</string>
     </value>
   </item>
   <item>
@@ -13,7 +13,7 @@
       <string>583</string>
     </key>
     <value>
-      <string>Condor</string>
+      <string>秃鹫级</string>
     </value>
   </item>
   <item>
@@ -21,7 +21,7 @@
       <string>584</string>
     </key>
     <value>
-      <string>Griffin</string>
+      <string>狮鹫级</string>
     </value>
   </item>
   <item>
@@ -29,7 +29,7 @@
       <string>585</string>
     </key>
     <value>
-      <string>Slasher</string>
+      <string>伐木者级</string>
     </value>
   </item>
   <item>
@@ -37,7 +37,7 @@
       <string>586</string>
     </key>
     <value>
-      <string>Probe</string>
+      <string>探索级</string>
     </value>
   </item>
   <item>
@@ -45,7 +45,7 @@
       <string>587</string>
     </key>
     <value>
-      <string>Rifter</string>
+      <string>裂谷级</string>
     </value>
   </item>
   <item>
@@ -53,7 +53,7 @@
       <string>588</string>
     </key>
     <value>
-      <string>Reaper</string>
+      <string>死神号</string>
     </value>
   </item>
   <item>
@@ -61,7 +61,7 @@
       <string>589</string>
     </key>
     <value>
-      <string>Executioner</string>
+      <string>刽子手级</string>
     </value>
   </item>
   <item>
@@ -69,7 +69,7 @@
       <string>590</string>
     </key>
     <value>
-      <string>Inquisitor</string>
+      <string>检察官级</string>
     </value>
   </item>
   <item>
@@ -77,7 +77,7 @@
       <string>591</string>
     </key>
     <value>
-      <string>Tormentor</string>
+      <string>巨神兵级</string>
     </value>
   </item>
   <item>
@@ -85,7 +85,7 @@
       <string>592</string>
     </key>
     <value>
-      <string>Navitas</string>
+      <string>纳维达斯级</string>
     </value>
   </item>
   <item>
@@ -93,7 +93,7 @@
       <string>593</string>
     </key>
     <value>
-      <string>Tristan</string>
+      <string>特里斯坦级</string>
     </value>
   </item>
   <item>
@@ -101,7 +101,7 @@
       <string>594</string>
     </key>
     <value>
-      <string>Incursus</string>
+      <string>因卡萨斯级</string>
     </value>
   </item>
   <item>
@@ -109,7 +109,7 @@
       <string>595</string>
     </key>
     <value>
-      <string>Gallente Police Ship</string>
+      <string>盖伦特警用船</string>
     </value>
   </item>
   <item>
@@ -117,7 +117,7 @@
       <string>596</string>
     </key>
     <value>
-      <string>Impairor</string>
+      <string>帝国号</string>
     </value>
   </item>
   <item>
@@ -125,7 +125,7 @@
       <string>597</string>
     </key>
     <value>
-      <string>Punisher</string>
+      <string>惩罚者级</string>
     </value>
   </item>
   <item>
@@ -133,7 +133,7 @@
       <string>598</string>
     </key>
     <value>
-      <string>Breacher</string>
+      <string>分裂者级</string>
     </value>
   </item>
   <item>
@@ -141,7 +141,7 @@
       <string>599</string>
     </key>
     <value>
-      <string>Burst</string>
+      <string>爆发级</string>
     </value>
   </item>
   <item>
@@ -149,7 +149,7 @@
       <string>600</string>
     </key>
     <value>
-      <string>Minmatar Peacekeeper Ship</string>
+      <string>米玛塔尔维和船</string>
     </value>
   </item>
   <item>
@@ -157,7 +157,7 @@
       <string>601</string>
     </key>
     <value>
-      <string>Ibis</string>
+      <string>伊毕斯号</string>
     </value>
   </item>
   <item>
@@ -165,7 +165,7 @@
       <string>602</string>
     </key>
     <value>
-      <string>Kestrel</string>
+      <string>茶隼级</string>
     </value>
   </item>
   <item>
@@ -173,7 +173,7 @@
       <string>603</string>
     </key>
     <value>
-      <string>Merlin</string>
+      <string>小鹰级</string>
     </value>
   </item>
   <item>
@@ -181,7 +181,7 @@
       <string>605</string>
     </key>
     <value>
-      <string>Heron</string>
+      <string>苍鹭级</string>
     </value>
   </item>
   <item>
@@ -189,7 +189,7 @@
       <string>606</string>
     </key>
     <value>
-      <string>Velator</string>
+      <string>维拉托尔号</string>
     </value>
   </item>
   <item>
@@ -197,7 +197,7 @@
       <string>607</string>
     </key>
     <value>
-      <string>Imicus</string>
+      <string>伊米卡斯级</string>
     </value>
   </item>
   <item>
@@ -205,7 +205,7 @@
       <string>608</string>
     </key>
     <value>
-      <string>Atron</string>
+      <string>阿特龙级</string>
     </value>
   </item>
   <item>
@@ -213,7 +213,7 @@
       <string>609</string>
     </key>
     <value>
-      <string>Maulus</string>
+      <string>毛鲁斯级</string>
     </value>
   </item>
   <item>
@@ -221,7 +221,7 @@
       <string>613</string>
     </key>
     <value>
-      <string>Devourer</string>
+      <string>吞噬级</string>
     </value>
   </item>
   <item>
@@ -229,7 +229,7 @@
       <string>614</string>
     </key>
     <value>
-      <string>Fury</string>
+      <string>女神级</string>
     </value>
   </item>
   <item>
@@ -237,7 +237,7 @@
       <string>615</string>
     </key>
     <value>
-      <string>Immolator</string>
+      <string>献祭者级</string>
     </value>
   </item>
   <item>
@@ -245,7 +245,7 @@
       <string>616</string>
     </key>
     <value>
-      <string>Medusa</string>
+      <string>美杜莎级</string>
     </value>
   </item>
   <item>
@@ -253,7 +253,7 @@
       <string>617</string>
     </key>
     <value>
-      <string>Echo</string>
+      <string>回声级</string>
     </value>
   </item>
   <item>
@@ -261,7 +261,7 @@
       <string>618</string>
     </key>
     <value>
-      <string>Lynx</string>
+      <string>山猫级</string>
     </value>
   </item>
   <item>
@@ -269,7 +269,7 @@
       <string>619</string>
     </key>
     <value>
-      <string>Swordspine</string>
+      <string>剑刺级</string>
     </value>
   </item>
   <item>
@@ -277,7 +277,7 @@
       <string>620</string>
     </key>
     <value>
-      <string>Osprey</string>
+      <string>鱼鹰级</string>
     </value>
   </item>
   <item>
@@ -285,7 +285,7 @@
       <string>621</string>
     </key>
     <value>
-      <string>Caracal</string>
+      <string>狞獾级</string>
     </value>
   </item>
   <item>
@@ -293,7 +293,7 @@
       <string>622</string>
     </key>
     <value>
-      <string>Stabber</string>
+      <string>刺客级</string>
     </value>
   </item>
   <item>
@@ -301,7 +301,7 @@
       <string>623</string>
     </key>
     <value>
-      <string>Moa</string>
+      <string>巨鸟级</string>
     </value>
   </item>
   <item>
@@ -309,7 +309,7 @@
       <string>624</string>
     </key>
     <value>
-      <string>Maller</string>
+      <string>暴君级</string>
     </value>
   </item>
   <item>
@@ -317,7 +317,7 @@
       <string>625</string>
     </key>
     <value>
-      <string>Augoror</string>
+      <string>奥格诺级</string>
     </value>
   </item>
   <item>
@@ -325,7 +325,7 @@
       <string>626</string>
     </key>
     <value>
-      <string>Vexor</string>
+      <string>狂怒者级</string>
     </value>
   </item>
   <item>
@@ -333,7 +333,7 @@
       <string>627</string>
     </key>
     <value>
-      <string>Thorax</string>
+      <string>托勒克斯级</string>
     </value>
   </item>
   <item>
@@ -341,7 +341,7 @@
       <string>628</string>
     </key>
     <value>
-      <string>Arbitrator</string>
+      <string>主宰级</string>
     </value>
   </item>
   <item>
@@ -349,7 +349,7 @@
       <string>629</string>
     </key>
     <value>
-      <string>Rupture</string>
+      <string>断崖级</string>
     </value>
   </item>
   <item>
@@ -357,7 +357,7 @@
       <string>630</string>
     </key>
     <value>
-      <string>Bellicose</string>
+      <string>挑战级</string>
     </value>
   </item>
   <item>
@@ -365,7 +365,7 @@
       <string>631</string>
     </key>
     <value>
-      <string>Scythe</string>
+      <string>镰刀级</string>
     </value>
   </item>
   <item>
@@ -373,7 +373,7 @@
       <string>632</string>
     </key>
     <value>
-      <string>Blackbird</string>
+      <string>黑鸟级</string>
     </value>
   </item>
   <item>
@@ -381,7 +381,7 @@
       <string>633</string>
     </key>
     <value>
-      <string>Celestis</string>
+      <string>星空级</string>
     </value>
   </item>
   <item>
@@ -389,7 +389,7 @@
       <string>634</string>
     </key>
     <value>
-      <string>Exequror</string>
+      <string>送葬者级</string>
     </value>
   </item>
   <item>
@@ -397,7 +397,7 @@
       <string>635</string>
     </key>
     <value>
-      <string>Opux Luxury Yacht</string>
+      <string>奥普克斯级豪华游轮</string>
     </value>
   </item>
   <item>
@@ -405,7 +405,7 @@
       <string>638</string>
     </key>
     <value>
-      <string>Raven</string>
+      <string>乌鸦级</string>
     </value>
   </item>
   <item>
@@ -413,7 +413,7 @@
       <string>639</string>
     </key>
     <value>
-      <string>Tempest</string>
+      <string>狂暴级</string>
     </value>
   </item>
   <item>
@@ -421,7 +421,7 @@
       <string>640</string>
     </key>
     <value>
-      <string>Scorpion</string>
+      <string>毒蝎级</string>
     </value>
   </item>
   <item>
@@ -429,7 +429,7 @@
       <string>641</string>
     </key>
     <value>
-      <string>Megathron</string>
+      <string>万王宝座级</string>
     </value>
   </item>
   <item>
@@ -437,7 +437,7 @@
       <string>642</string>
     </key>
     <value>
-      <string>Apocalypse</string>
+      <string>灾难级</string>
     </value>
   </item>
   <item>
@@ -445,7 +445,7 @@
       <string>643</string>
     </key>
     <value>
-      <string>Armageddon</string>
+      <string>末日沙场级</string>
     </value>
   </item>
   <item>
@@ -453,7 +453,7 @@
       <string>644</string>
     </key>
     <value>
-      <string>Typhoon</string>
+      <string>台风级</string>
     </value>
   </item>
   <item>
@@ -461,7 +461,7 @@
       <string>645</string>
     </key>
     <value>
-      <string>Dominix</string>
+      <string>多米尼克斯级</string>
     </value>
   </item>
   <item>
@@ -469,7 +469,7 @@
       <string>648</string>
     </key>
     <value>
-      <string>Badger</string>
+      <string>獾级</string>
     </value>
   </item>
   <item>
@@ -477,7 +477,7 @@
       <string>649</string>
     </key>
     <value>
-      <string>Tayra</string>
+      <string>狐鼬级</string>
     </value>
   </item>
   <item>
@@ -485,7 +485,7 @@
       <string>650</string>
     </key>
     <value>
-      <string>Nereus</string>
+      <string>涅鲁斯级</string>
     </value>
   </item>
   <item>
@@ -493,7 +493,7 @@
       <string>651</string>
     </key>
     <value>
-      <string>Hoarder</string>
+      <string>囤积者级</string>
     </value>
   </item>
   <item>
@@ -501,7 +501,7 @@
       <string>652</string>
     </key>
     <value>
-      <string>Mammoth</string>
+      <string>猛犸级</string>
     </value>
   </item>
   <item>
@@ -509,7 +509,7 @@
       <string>653</string>
     </key>
     <value>
-      <string>Wreathe</string>
+      <string>环绕级</string>
     </value>
   </item>
   <item>
@@ -517,7 +517,7 @@
       <string>654</string>
     </key>
     <value>
-      <string>Kryos</string>
+      <string>克琉斯级</string>
     </value>
   </item>
   <item>
@@ -525,7 +525,7 @@
       <string>655</string>
     </key>
     <value>
-      <string>Epithal</string>
+      <string>埃比斯级</string>
     </value>
   </item>
   <item>
@@ -533,7 +533,7 @@
       <string>656</string>
     </key>
     <value>
-      <string>Miasmos</string>
+      <string>米亚莫斯级</string>
     </value>
   </item>
   <item>
@@ -541,7 +541,7 @@
       <string>657</string>
     </key>
     <value>
-      <string>Iteron Mark V</string>
+      <string>伊特龙级MKV</string>
     </value>
   </item>
   <item>
@@ -549,7 +549,7 @@
       <string>670</string>
     </key>
     <value>
-      <string>Capsule</string>
+      <string>太空舱</string>
     </value>
   </item>
   <item>
@@ -557,7 +557,7 @@
       <string>671</string>
     </key>
     <value>
-      <string>Erebus</string>
+      <string>俄洛巴斯级</string>
     </value>
   </item>
   <item>
@@ -565,7 +565,7 @@
       <string>672</string>
     </key>
     <value>
-      <string>Caldari Shuttle</string>
+      <string>加达里穿梭机</string>
     </value>
   </item>
   <item>
@@ -573,7 +573,7 @@
       <string>1233</string>
     </key>
     <value>
-      <string>Polaris Enigma Frigate</string>
+      <string>北极星神秘护卫舰</string>
     </value>
   </item>
   <item>
@@ -581,7 +581,7 @@
       <string>1896</string>
     </key>
     <value>
-      <string>Concord Police Frigate</string>
+      <string>统合部警用护卫舰</string>
     </value>
   </item>
   <item>
@@ -589,7 +589,7 @@
       <string>1898</string>
     </key>
     <value>
-      <string>Concord SWAT Frigate</string>
+      <string>统合部特警护卫舰</string>
     </value>
   </item>
   <item>
@@ -597,7 +597,7 @@
       <string>1900</string>
     </key>
     <value>
-      <string>Concord Army Frigate</string>
+      <string>统合部军用护卫舰</string>
     </value>
   </item>
   <item>
@@ -605,7 +605,7 @@
       <string>1902</string>
     </key>
     <value>
-      <string>Concord Special Ops Frigate</string>
+      <string>统合部特勤护卫舰</string>
     </value>
   </item>
   <item>
@@ -613,7 +613,7 @@
       <string>1904</string>
     </key>
     <value>
-      <string>Concord Police Cruiser</string>
+      <string>统合部警用巡洋舰</string>
     </value>
   </item>
   <item>
@@ -621,7 +621,7 @@
       <string>1912</string>
     </key>
     <value>
-      <string>Concord Police Battleship</string>
+      <string>统合部警用战列舰</string>
     </value>
   </item>
   <item>
@@ -629,7 +629,7 @@
       <string>1914</string>
     </key>
     <value>
-      <string>Concord Special Ops Battleship</string>
+      <string>统合部特勤战列舰</string>
     </value>
   </item>
   <item>
@@ -637,7 +637,7 @@
       <string>1916</string>
     </key>
     <value>
-      <string>Concord SWAT Battleship</string>
+      <string>统合部特警战列舰</string>
     </value>
   </item>
   <item>
@@ -645,7 +645,7 @@
       <string>1918</string>
     </key>
     <value>
-      <string>Concord Army Battleship</string>
+      <string>统合部军用战列舰</string>
     </value>
   </item>
   <item>
@@ -653,7 +653,7 @@
       <string>1944</string>
     </key>
     <value>
-      <string>Bestower</string>
+      <string>恩赐者级</string>
     </value>
   </item>
   <item>
@@ -661,7 +661,7 @@
       <string>2006</string>
     </key>
     <value>
-      <string>Omen</string>
+      <string>启示级</string>
     </value>
   </item>
   <item>
@@ -669,7 +669,7 @@
       <string>2078</string>
     </key>
     <value>
-      <string>Zephyr</string>
+      <string>微风级</string>
     </value>
   </item>
   <item>
@@ -677,7 +677,7 @@
       <string>2161</string>
     </key>
     <value>
-      <string>Crucifier</string>
+      <string>磨难级</string>
     </value>
   </item>
   <item>
@@ -685,7 +685,7 @@
       <string>2834</string>
     </key>
     <value>
-      <string>Utu</string>
+      <string>乌图级</string>
     </value>
   </item>
   <item>
@@ -693,7 +693,7 @@
       <string>2836</string>
     </key>
     <value>
-      <string>Adrestia</string>
+      <string>复仇女神级</string>
     </value>
   </item>
   <item>
@@ -701,7 +701,7 @@
       <string>2863</string>
     </key>
     <value>
-      <string>Primae</string>
+      <string>元始级</string>
     </value>
   </item>
   <item>
@@ -709,7 +709,7 @@
       <string>2948</string>
     </key>
     <value>
-      <string>Shadow</string>
+      <string>暗影</string>
     </value>
   </item>
   <item>
@@ -717,7 +717,7 @@
       <string>2998</string>
     </key>
     <value>
-      <string>Noctis</string>
+      <string>黑夜级</string>
     </value>
   </item>
   <item>
@@ -725,7 +725,7 @@
       <string>3514</string>
     </key>
     <value>
-      <string>Revenant</string>
+      <string>归魂者级</string>
     </value>
   </item>
   <item>
@@ -733,7 +733,7 @@
       <string>3516</string>
     </key>
     <value>
-      <string>Malice</string>
+      <string>恶意级</string>
     </value>
   </item>
   <item>
@@ -741,7 +741,7 @@
       <string>3518</string>
     </key>
     <value>
-      <string>Vangel</string>
+      <string>传道者级</string>
     </value>
   </item>
   <item>
@@ -749,7 +749,7 @@
       <string>3532</string>
     </key>
     <value>
-      <string>Echelon</string>
+      <string>梯队级</string>
     </value>
   </item>
   <item>
@@ -757,7 +757,7 @@
       <string>3628</string>
     </key>
     <value>
-      <string>Nation</string>
+      <string>萨沙</string>
     </value>
   </item>
   <item>
@@ -781,7 +781,7 @@
       <string>3756</string>
     </key>
     <value>
-      <string>Gnosis</string>
+      <string>灵感级</string>
     </value>
   </item>
   <item>
@@ -789,7 +789,7 @@
       <string>3764</string>
     </key>
     <value>
-      <string>Leviathan</string>
+      <string>勒维亚坦级</string>
     </value>
   </item>
   <item>
@@ -797,7 +797,7 @@
       <string>3766</string>
     </key>
     <value>
-      <string>Vigil</string>
+      <string>守夜者级</string>
     </value>
   </item>
   <item>
@@ -805,7 +805,7 @@
       <string>3768</string>
     </key>
     <value>
-      <string>Amarr Police Frigate</string>
+      <string>艾玛警用护卫舰</string>
     </value>
   </item>
   <item>
@@ -813,7 +813,7 @@
       <string>4005</string>
     </key>
     <value>
-      <string>Scorpion Ishukone Watch</string>
+      <string>毒蝎级异株湖保安型</string>
     </value>
   </item>
   <item>
@@ -821,7 +821,7 @@
       <string>4302</string>
     </key>
     <value>
-      <string>Oracle</string>
+      <string>预言级</string>
     </value>
   </item>
   <item>
@@ -829,7 +829,7 @@
       <string>4306</string>
     </key>
     <value>
-      <string>Naga</string>
+      <string>娜迦级</string>
     </value>
   </item>
   <item>
@@ -837,7 +837,7 @@
       <string>4308</string>
     </key>
     <value>
-      <string>Talos</string>
+      <string>塔洛斯级</string>
     </value>
   </item>
   <item>
@@ -845,7 +845,7 @@
       <string>4310</string>
     </key>
     <value>
-      <string>Tornado</string>
+      <string>龙卷风级</string>
     </value>
   </item>
   <item>
@@ -853,7 +853,7 @@
       <string>4363</string>
     </key>
     <value>
-      <string>Miasmos Quafe Ultra Edition</string>
+      <string>米亚莫斯级酷菲特强版</string>
     </value>
   </item>
   <item>
@@ -861,7 +861,7 @@
       <string>4386</string>
     </key>
     <value>
-      <string>Mobile Large Jump Disruptor I</string>
+      <string>大型机动跳跃扰断器 I</string>
     </value>
   </item>
   <item>
@@ -869,7 +869,7 @@
       <string>4388</string>
     </key>
     <value>
-      <string>Miasmos Quafe Ultramarine Edition</string>
+      <string>米亚莫斯级酷菲深蓝版</string>
     </value>
   </item>
   <item>
@@ -877,7 +877,7 @@
       <string>9854</string>
     </key>
     <value>
-      <string>Polaris Inspector Frigate</string>
+      <string>北极星观测者护卫舰</string>
     </value>
   </item>
   <item>
@@ -885,7 +885,7 @@
       <string>9858</string>
     </key>
     <value>
-      <string>Polaris Centurion TEST</string>
+      <string>北极星百夫长级</string>
     </value>
   </item>
   <item>
@@ -893,7 +893,7 @@
       <string>9860</string>
     </key>
     <value>
-      <string>Polaris Legatus Frigate</string>
+      <string>北极星将官护卫舰</string>
     </value>
   </item>
   <item>
@@ -901,7 +901,7 @@
       <string>9862</string>
     </key>
     <value>
-      <string>Polaris Centurion Frigate</string>
+      <string>北极星百夫长护卫舰</string>
     </value>
   </item>
   <item>
@@ -909,7 +909,7 @@
       <string>11011</string>
     </key>
     <value>
-      <string>Guardian-Vexor</string>
+      <string>狂怒守卫者级</string>
     </value>
   </item>
   <item>
@@ -917,7 +917,7 @@
       <string>11019</string>
     </key>
     <value>
-      <string>Cockroach</string>
+      <string>蟑螂级</string>
     </value>
   </item>
   <item>
@@ -925,7 +925,7 @@
       <string>11129</string>
     </key>
     <value>
-      <string>Gallente Shuttle</string>
+      <string>盖伦特穿梭机</string>
     </value>
   </item>
   <item>
@@ -933,7 +933,7 @@
       <string>11132</string>
     </key>
     <value>
-      <string>Minmatar Shuttle</string>
+      <string>米玛塔尔穿梭机</string>
     </value>
   </item>
   <item>
@@ -941,7 +941,7 @@
       <string>11134</string>
     </key>
     <value>
-      <string>Amarr Shuttle</string>
+      <string>艾玛穿梭机</string>
     </value>
   </item>
   <item>
@@ -949,7 +949,7 @@
       <string>11172</string>
     </key>
     <value>
-      <string>Helios</string>
+      <string>太阳神级</string>
     </value>
   </item>
   <item>
@@ -957,7 +957,7 @@
       <string>11174</string>
     </key>
     <value>
-      <string>Keres</string>
+      <string>克勒斯级</string>
     </value>
   </item>
   <item>
@@ -965,7 +965,7 @@
       <string>11176</string>
     </key>
     <value>
-      <string>Crow</string>
+      <string>黑鸦级</string>
     </value>
   </item>
   <item>
@@ -973,7 +973,7 @@
       <string>11178</string>
     </key>
     <value>
-      <string>Raptor</string>
+      <string>猛禽级</string>
     </value>
   </item>
   <item>
@@ -981,7 +981,7 @@
       <string>11182</string>
     </key>
     <value>
-      <string>Cheetah</string>
+      <string>猎豹级</string>
     </value>
   </item>
   <item>
@@ -989,7 +989,7 @@
       <string>11184</string>
     </key>
     <value>
-      <string>Crusader</string>
+      <string>十字军级</string>
     </value>
   </item>
   <item>
@@ -997,7 +997,7 @@
       <string>11186</string>
     </key>
     <value>
-      <string>Malediction</string>
+      <string>咒灭级</string>
     </value>
   </item>
   <item>
@@ -1005,7 +1005,7 @@
       <string>11188</string>
     </key>
     <value>
-      <string>Anathema</string>
+      <string>咒逐级</string>
     </value>
   </item>
   <item>
@@ -1013,7 +1013,7 @@
       <string>11190</string>
     </key>
     <value>
-      <string>Sentinel</string>
+      <string>哨兵级</string>
     </value>
   </item>
   <item>
@@ -1021,7 +1021,7 @@
       <string>11192</string>
     </key>
     <value>
-      <string>Buzzard</string>
+      <string>秃鹰级</string>
     </value>
   </item>
   <item>
@@ -1029,7 +1029,7 @@
       <string>11194</string>
     </key>
     <value>
-      <string>Kitsune</string>
+      <string>狐妖级</string>
     </value>
   </item>
   <item>
@@ -1037,7 +1037,7 @@
       <string>11196</string>
     </key>
     <value>
-      <string>Claw</string>
+      <string>利爪级</string>
     </value>
   </item>
   <item>
@@ -1045,7 +1045,7 @@
       <string>11198</string>
     </key>
     <value>
-      <string>Stiletto</string>
+      <string>短剑级</string>
     </value>
   </item>
   <item>
@@ -1053,7 +1053,7 @@
       <string>11200</string>
     </key>
     <value>
-      <string>Taranis</string>
+      <string>塔纳尼斯级</string>
     </value>
   </item>
   <item>
@@ -1061,7 +1061,7 @@
       <string>11202</string>
     </key>
     <value>
-      <string>Ares</string>
+      <string>阿瑞斯级</string>
     </value>
   </item>
   <item>
@@ -1069,7 +1069,7 @@
       <string>11365</string>
     </key>
     <value>
-      <string>Vengeance</string>
+      <string>复仇级</string>
     </value>
   </item>
   <item>
@@ -1077,7 +1077,7 @@
       <string>11371</string>
     </key>
     <value>
-      <string>Wolf</string>
+      <string>猎狼级</string>
     </value>
   </item>
   <item>
@@ -1085,7 +1085,7 @@
       <string>11373</string>
     </key>
     <value>
-      <string>Blade</string>
+      <string>刀锋级</string>
     </value>
   </item>
   <item>
@@ -1093,7 +1093,7 @@
       <string>11375</string>
     </key>
     <value>
-      <string>Erinye</string>
+      <string>艾琳伊级</string>
     </value>
   </item>
   <item>
@@ -1101,7 +1101,7 @@
       <string>11377</string>
     </key>
     <value>
-      <string>Nemesis</string>
+      <string>纳美西斯级</string>
     </value>
   </item>
   <item>
@@ -1109,7 +1109,7 @@
       <string>11379</string>
     </key>
     <value>
-      <string>Hawk</string>
+      <string>战鹰级</string>
     </value>
   </item>
   <item>
@@ -1117,7 +1117,7 @@
       <string>11381</string>
     </key>
     <value>
-      <string>Harpy</string>
+      <string>女妖级</string>
     </value>
   </item>
   <item>
@@ -1125,7 +1125,7 @@
       <string>11383</string>
     </key>
     <value>
-      <string>Gatherer</string>
+      <string>收集者级</string>
     </value>
   </item>
   <item>
@@ -1133,7 +1133,7 @@
       <string>11387</string>
     </key>
     <value>
-      <string>Hyena</string>
+      <string>土狼级</string>
     </value>
   </item>
   <item>
@@ -1141,7 +1141,7 @@
       <string>11389</string>
     </key>
     <value>
-      <string>Kishar</string>
+      <string>基沙尔级</string>
     </value>
   </item>
   <item>
@@ -1149,7 +1149,7 @@
       <string>11393</string>
     </key>
     <value>
-      <string>Retribution</string>
+      <string>审判者级</string>
     </value>
   </item>
   <item>
@@ -1157,7 +1157,7 @@
       <string>11400</string>
     </key>
     <value>
-      <string>Jaguar</string>
+      <string>美洲虎级</string>
     </value>
   </item>
   <item>
@@ -1165,7 +1165,7 @@
       <string>11567</string>
     </key>
     <value>
-      <string>Avatar</string>
+      <string>神使级</string>
     </value>
   </item>
   <item>
@@ -1173,7 +1173,7 @@
       <string>11936</string>
     </key>
     <value>
-      <string>Apocalypse Imperial Issue</string>
+      <string>灾难级帝国型</string>
     </value>
   </item>
   <item>
@@ -1181,7 +1181,7 @@
       <string>11938</string>
     </key>
     <value>
-      <string>Armageddon Imperial Issue</string>
+      <string>末日沙场级帝国型</string>
     </value>
   </item>
   <item>
@@ -1189,7 +1189,7 @@
       <string>11940</string>
     </key>
     <value>
-      <string>Gold Magnate</string>
+      <string>黄金富豪级</string>
     </value>
   </item>
   <item>
@@ -1197,7 +1197,7 @@
       <string>11942</string>
     </key>
     <value>
-      <string>Silver Magnate</string>
+      <string>白银富豪级</string>
     </value>
   </item>
   <item>
@@ -1205,7 +1205,7 @@
       <string>11957</string>
     </key>
     <value>
-      <string>Falcon</string>
+      <string>战隼级</string>
     </value>
   </item>
   <item>
@@ -1213,7 +1213,7 @@
       <string>11959</string>
     </key>
     <value>
-      <string>Rook</string>
+      <string>白嘴鸦级</string>
     </value>
   </item>
   <item>
@@ -1221,7 +1221,7 @@
       <string>11961</string>
     </key>
     <value>
-      <string>Huginn</string>
+      <string>休津级</string>
     </value>
   </item>
   <item>
@@ -1229,7 +1229,7 @@
       <string>11963</string>
     </key>
     <value>
-      <string>Rapier</string>
+      <string>长剑级</string>
     </value>
   </item>
   <item>
@@ -1237,7 +1237,7 @@
       <string>11965</string>
     </key>
     <value>
-      <string>Pilgrim</string>
+      <string>朝圣级</string>
     </value>
   </item>
   <item>
@@ -1245,7 +1245,7 @@
       <string>11969</string>
     </key>
     <value>
-      <string>Arazu</string>
+      <string>埃拉兹级</string>
     </value>
   </item>
   <item>
@@ -1253,7 +1253,7 @@
       <string>11971</string>
     </key>
     <value>
-      <string>Lachesis</string>
+      <string>拉克希斯级</string>
     </value>
   </item>
   <item>
@@ -1261,7 +1261,7 @@
       <string>11978</string>
     </key>
     <value>
-      <string>Scimitar</string>
+      <string>曲剑级</string>
     </value>
   </item>
   <item>
@@ -1269,7 +1269,7 @@
       <string>11985</string>
     </key>
     <value>
-      <string>Basilisk</string>
+      <string>皇冠蜥级</string>
     </value>
   </item>
   <item>
@@ -1277,7 +1277,7 @@
       <string>11987</string>
     </key>
     <value>
-      <string>Guardian</string>
+      <string>守卫级</string>
     </value>
   </item>
   <item>
@@ -1285,7 +1285,7 @@
       <string>11989</string>
     </key>
     <value>
-      <string>Oneiros</string>
+      <string>奥内罗斯级</string>
     </value>
   </item>
   <item>
@@ -1293,7 +1293,7 @@
       <string>11993</string>
     </key>
     <value>
-      <string>Cerberus</string>
+      <string>希尔博拉斯级</string>
     </value>
   </item>
   <item>
@@ -1301,7 +1301,7 @@
       <string>11995</string>
     </key>
     <value>
-      <string>Onyx</string>
+      <string>奥尼克斯级</string>
     </value>
   </item>
   <item>
@@ -1309,7 +1309,7 @@
       <string>11999</string>
     </key>
     <value>
-      <string>Vagabond</string>
+      <string>流浪级</string>
     </value>
   </item>
   <item>
@@ -1317,7 +1317,7 @@
       <string>12003</string>
     </key>
     <value>
-      <string>Zealot</string>
+      <string>狂热级</string>
     </value>
   </item>
   <item>
@@ -1325,7 +1325,7 @@
       <string>12005</string>
     </key>
     <value>
-      <string>Ishtar</string>
+      <string>伊什塔级</string>
     </value>
   </item>
   <item>
@@ -1333,7 +1333,7 @@
       <string>12011</string>
     </key>
     <value>
-      <string>Eagle</string>
+      <string>银鹰级</string>
     </value>
   </item>
   <item>
@@ -1341,7 +1341,7 @@
       <string>12013</string>
     </key>
     <value>
-      <string>Broadsword</string>
+      <string>阔刀级</string>
     </value>
   </item>
   <item>
@@ -1349,7 +1349,7 @@
       <string>12015</string>
     </key>
     <value>
-      <string>Muninn</string>
+      <string>缪宁级</string>
     </value>
   </item>
   <item>
@@ -1357,7 +1357,7 @@
       <string>12017</string>
     </key>
     <value>
-      <string>Devoter</string>
+      <string>奉献级</string>
     </value>
   </item>
   <item>
@@ -1365,7 +1365,7 @@
       <string>12019</string>
     </key>
     <value>
-      <string>Sacrilege</string>
+      <string>渎圣级</string>
     </value>
   </item>
   <item>
@@ -1373,7 +1373,7 @@
       <string>12021</string>
     </key>
     <value>
-      <string>Phobos</string>
+      <string>伏波斯级</string>
     </value>
   </item>
   <item>
@@ -1381,7 +1381,7 @@
       <string>12023</string>
     </key>
     <value>
-      <string>Deimos</string>
+      <string>戴默斯级</string>
     </value>
   </item>
   <item>
@@ -1389,7 +1389,7 @@
       <string>12032</string>
     </key>
     <value>
-      <string>Manticore</string>
+      <string>蝎尾怪级</string>
     </value>
   </item>
   <item>
@@ -1397,7 +1397,7 @@
       <string>12034</string>
     </key>
     <value>
-      <string>Hound</string>
+      <string>猎犬级</string>
     </value>
   </item>
   <item>
@@ -1405,7 +1405,7 @@
       <string>12036</string>
     </key>
     <value>
-      <string>Dagger</string>
+      <string>匕首级</string>
     </value>
   </item>
   <item>
@@ -1413,7 +1413,7 @@
       <string>12038</string>
     </key>
     <value>
-      <string>Purifier</string>
+      <string>净化级</string>
     </value>
   </item>
   <item>
@@ -1421,7 +1421,7 @@
       <string>12042</string>
     </key>
     <value>
-      <string>Ishkur</string>
+      <string>伊什库尔级</string>
     </value>
   </item>
   <item>
@@ -1429,7 +1429,7 @@
       <string>12044</string>
     </key>
     <value>
-      <string>Enyo</string>
+      <string>恩尤级</string>
     </value>
   </item>
   <item>
@@ -1437,7 +1437,7 @@
       <string>12198</string>
     </key>
     <value>
-      <string>Mobile Small Warp Disruptor I</string>
+      <string>小型机动跃迁扰断器 I</string>
     </value>
   </item>
   <item>
@@ -1445,7 +1445,7 @@
       <string>12199</string>
     </key>
     <value>
-      <string>Mobile Medium Warp Disruptor I</string>
+      <string>中型机动跃迁扰断器 I</string>
     </value>
   </item>
   <item>
@@ -1453,7 +1453,7 @@
       <string>12200</string>
     </key>
     <value>
-      <string>Mobile Large Warp Disruptor I</string>
+      <string>大型机动跃迁扰断器 I</string>
     </value>
   </item>
   <item>
@@ -1461,7 +1461,7 @@
       <string>12729</string>
     </key>
     <value>
-      <string>Crane</string>
+      <string>天鹤级</string>
     </value>
   </item>
   <item>
@@ -1469,7 +1469,7 @@
       <string>12731</string>
     </key>
     <value>
-      <string>Bustard</string>
+      <string>大鸨级</string>
     </value>
   </item>
   <item>
@@ -1477,7 +1477,7 @@
       <string>12733</string>
     </key>
     <value>
-      <string>Prorator</string>
+      <string>分裂级</string>
     </value>
   </item>
   <item>
@@ -1485,7 +1485,7 @@
       <string>12735</string>
     </key>
     <value>
-      <string>Prowler</string>
+      <string>徘徊者级</string>
     </value>
   </item>
   <item>
@@ -1493,7 +1493,7 @@
       <string>12743</string>
     </key>
     <value>
-      <string>Viator</string>
+      <string>旅行者级</string>
     </value>
   </item>
   <item>
@@ -1501,7 +1501,7 @@
       <string>12745</string>
     </key>
     <value>
-      <string>Occator</string>
+      <string>奥卡托级</string>
     </value>
   </item>
   <item>
@@ -1509,7 +1509,7 @@
       <string>12747</string>
     </key>
     <value>
-      <string>Mastodon</string>
+      <string>巨象级</string>
     </value>
   </item>
   <item>
@@ -1517,7 +1517,7 @@
       <string>12753</string>
     </key>
     <value>
-      <string>Impel</string>
+      <string>激进级</string>
     </value>
   </item>
   <item>
@@ -1525,7 +1525,7 @@
       <string>13202</string>
     </key>
     <value>
-      <string>Megathron Federate Issue</string>
+      <string>万王宝座级联邦型</string>
     </value>
   </item>
   <item>
@@ -1533,7 +1533,7 @@
       <string>16227</string>
     </key>
     <value>
-      <string>Ferox</string>
+      <string>猛鲑级</string>
     </value>
   </item>
   <item>
@@ -1541,7 +1541,7 @@
       <string>16229</string>
     </key>
     <value>
-      <string>Brutix</string>
+      <string>布鲁提克斯级</string>
     </value>
   </item>
   <item>
@@ -1549,7 +1549,7 @@
       <string>16231</string>
     </key>
     <value>
-      <string>Cyclone</string>
+      <string>飓风级</string>
     </value>
   </item>
   <item>
@@ -1557,7 +1557,7 @@
       <string>16233</string>
     </key>
     <value>
-      <string>Prophecy</string>
+      <string>先知级</string>
     </value>
   </item>
   <item>
@@ -1565,7 +1565,7 @@
       <string>16236</string>
     </key>
     <value>
-      <string>Coercer</string>
+      <string>强制者级</string>
     </value>
   </item>
   <item>
@@ -1573,7 +1573,7 @@
       <string>16238</string>
     </key>
     <value>
-      <string>Cormorant</string>
+      <string>海燕级</string>
     </value>
   </item>
   <item>
@@ -1581,7 +1581,7 @@
       <string>16240</string>
     </key>
     <value>
-      <string>Catalyst</string>
+      <string>促进级</string>
     </value>
   </item>
   <item>
@@ -1589,7 +1589,7 @@
       <string>16242</string>
     </key>
     <value>
-      <string>Thrasher</string>
+      <string>长尾鲛级</string>
     </value>
   </item>
   <item>
@@ -1597,7 +1597,7 @@
       <string>17360</string>
     </key>
     <value>
-      <string>Immovable Enigma</string>
+      <string>隐秘级</string>
     </value>
   </item>
   <item>
@@ -1605,7 +1605,7 @@
       <string>17476</string>
     </key>
     <value>
-      <string>Covetor</string>
+      <string>妄想级</string>
     </value>
   </item>
   <item>
@@ -1613,7 +1613,7 @@
       <string>17478</string>
     </key>
     <value>
-      <string>Retriever</string>
+      <string>回旋者级</string>
     </value>
   </item>
   <item>
@@ -1621,7 +1621,7 @@
       <string>17480</string>
     </key>
     <value>
-      <string>Procurer</string>
+      <string>猎获级</string>
     </value>
   </item>
   <item>
@@ -1629,7 +1629,7 @@
       <string>17619</string>
     </key>
     <value>
-      <string>Caldari Navy Hookbill</string>
+      <string>加达里海军霍克比尔级</string>
     </value>
   </item>
   <item>
@@ -1637,7 +1637,7 @@
       <string>17634</string>
     </key>
     <value>
-      <string>Caracal Navy Issue</string>
+      <string>狞獾级海军型</string>
     </value>
   </item>
   <item>
@@ -1645,7 +1645,7 @@
       <string>17636</string>
     </key>
     <value>
-      <string>Raven Navy Issue</string>
+      <string>乌鸦级海军型</string>
     </value>
   </item>
   <item>
@@ -1653,7 +1653,7 @@
       <string>17703</string>
     </key>
     <value>
-      <string>Imperial Navy Slicer</string>
+      <string>帝国海军切割机级</string>
     </value>
   </item>
   <item>
@@ -1661,7 +1661,7 @@
       <string>17705</string>
     </key>
     <value>
-      <string>Khanid Navy Frigate</string>
+      <string>卡尼迪海军护卫舰</string>
     </value>
   </item>
   <item>
@@ -1669,7 +1669,7 @@
       <string>17707</string>
     </key>
     <value>
-      <string>Mordus Frigate</string>
+      <string>莫德团护卫舰</string>
     </value>
   </item>
   <item>
@@ -1677,7 +1677,7 @@
       <string>17709</string>
     </key>
     <value>
-      <string>Omen Navy Issue</string>
+      <string>启示级海军型</string>
     </value>
   </item>
   <item>
@@ -1685,7 +1685,7 @@
       <string>17713</string>
     </key>
     <value>
-      <string>Stabber Fleet Issue</string>
+      <string>刺客级舰队型</string>
     </value>
   </item>
   <item>
@@ -1693,7 +1693,7 @@
       <string>17715</string>
     </key>
     <value>
-      <string>Gila</string>
+      <string>毒蜥级</string>
     </value>
   </item>
   <item>
@@ -1701,7 +1701,7 @@
       <string>17718</string>
     </key>
     <value>
-      <string>Phantasm</string>
+      <string>幽灵级</string>
     </value>
   </item>
   <item>
@@ -1709,7 +1709,7 @@
       <string>17720</string>
     </key>
     <value>
-      <string>Cynabal</string>
+      <string>塞纳波级</string>
     </value>
   </item>
   <item>
@@ -1717,7 +1717,7 @@
       <string>17722</string>
     </key>
     <value>
-      <string>Vigilant</string>
+      <string>警惕级</string>
     </value>
   </item>
   <item>
@@ -1725,7 +1725,7 @@
       <string>17726</string>
     </key>
     <value>
-      <string>Apocalypse Navy Issue</string>
+      <string>灾难级海军型</string>
     </value>
   </item>
   <item>
@@ -1733,7 +1733,7 @@
       <string>17728</string>
     </key>
     <value>
-      <string>Megathron Navy Issue</string>
+      <string>万王宝座级海军型</string>
     </value>
   </item>
   <item>
@@ -1741,7 +1741,7 @@
       <string>17732</string>
     </key>
     <value>
-      <string>Tempest Fleet Issue</string>
+      <string>狂暴级舰队型</string>
     </value>
   </item>
   <item>
@@ -1749,7 +1749,7 @@
       <string>17736</string>
     </key>
     <value>
-      <string>Nightmare</string>
+      <string>噩梦级</string>
     </value>
   </item>
   <item>
@@ -1757,7 +1757,7 @@
       <string>17738</string>
     </key>
     <value>
-      <string>Machariel</string>
+      <string>马克瑞级</string>
     </value>
   </item>
   <item>
@@ -1765,7 +1765,7 @@
       <string>17740</string>
     </key>
     <value>
-      <string>Vindicator</string>
+      <string>复仇者级</string>
     </value>
   </item>
   <item>
@@ -1773,7 +1773,7 @@
       <string>17812</string>
     </key>
     <value>
-      <string>Republic Fleet Firetail</string>
+      <string>共和舰队火尾鸡级</string>
     </value>
   </item>
   <item>
@@ -1781,7 +1781,7 @@
       <string>17841</string>
     </key>
     <value>
-      <string>Federation Navy Comet</string>
+      <string>联邦海军彗星级</string>
     </value>
   </item>
   <item>
@@ -1789,7 +1789,7 @@
       <string>17843</string>
     </key>
     <value>
-      <string>Vexor Navy Issue</string>
+      <string>狂怒者级海军型</string>
     </value>
   </item>
   <item>
@@ -1797,7 +1797,7 @@
       <string>17918</string>
     </key>
     <value>
-      <string>Rattlesnake</string>
+      <string>响尾蛇级</string>
     </value>
   </item>
   <item>
@@ -1805,7 +1805,7 @@
       <string>17920</string>
     </key>
     <value>
-      <string>Bhaalgorn</string>
+      <string>巴戈龙级</string>
     </value>
   </item>
   <item>
@@ -1813,7 +1813,7 @@
       <string>17922</string>
     </key>
     <value>
-      <string>Ashimmu</string>
+      <string>阿什姆级</string>
     </value>
   </item>
   <item>
@@ -1821,7 +1821,7 @@
       <string>17924</string>
     </key>
     <value>
-      <string>Succubus</string>
+      <string>魔女级</string>
     </value>
   </item>
   <item>
@@ -1829,7 +1829,7 @@
       <string>17926</string>
     </key>
     <value>
-      <string>Cruor</string>
+      <string>凝血级</string>
     </value>
   </item>
   <item>
@@ -1837,7 +1837,7 @@
       <string>17928</string>
     </key>
     <value>
-      <string>Daredevil</string>
+      <string>夜魔侠级</string>
     </value>
   </item>
   <item>
@@ -1845,7 +1845,7 @@
       <string>17930</string>
     </key>
     <value>
-      <string>Worm</string>
+      <string>潜龙级</string>
     </value>
   </item>
   <item>
@@ -1853,7 +1853,7 @@
       <string>17932</string>
     </key>
     <value>
-      <string>Dramiel</string>
+      <string>德拉米尔级</string>
     </value>
   </item>
   <item>
@@ -1861,7 +1861,7 @@
       <string>19720</string>
     </key>
     <value>
-      <string>Revelation</string>
+      <string>神示级</string>
     </value>
   </item>
   <item>
@@ -1869,7 +1869,7 @@
       <string>19722</string>
     </key>
     <value>
-      <string>Naglfar</string>
+      <string>纳迦法级</string>
     </value>
   </item>
   <item>
@@ -1877,7 +1877,7 @@
       <string>19724</string>
     </key>
     <value>
-      <string>Moros</string>
+      <string>莫洛级</string>
     </value>
   </item>
   <item>
@@ -1885,7 +1885,7 @@
       <string>19726</string>
     </key>
     <value>
-      <string>Phoenix</string>
+      <string>凤凰级</string>
     </value>
   </item>
   <item>
@@ -1893,7 +1893,7 @@
       <string>19744</string>
     </key>
     <value>
-      <string>Sigil</string>
+      <string>魔符级</string>
     </value>
   </item>
   <item>
@@ -1901,7 +1901,7 @@
       <string>20125</string>
     </key>
     <value>
-      <string>Curse</string>
+      <string>诅咒级</string>
     </value>
   </item>
   <item>
@@ -1909,7 +1909,7 @@
       <string>20183</string>
     </key>
     <value>
-      <string>Providence</string>
+      <string>普罗维登斯级</string>
     </value>
   </item>
   <item>
@@ -1917,7 +1917,7 @@
       <string>20185</string>
     </key>
     <value>
-      <string>Charon</string>
+      <string>渡神级</string>
     </value>
   </item>
   <item>
@@ -1925,7 +1925,7 @@
       <string>20187</string>
     </key>
     <value>
-      <string>Obelisk</string>
+      <string>方尖塔级</string>
     </value>
   </item>
   <item>
@@ -1933,7 +1933,7 @@
       <string>20189</string>
     </key>
     <value>
-      <string>Fenrir</string>
+      <string>芬利厄级</string>
     </value>
   </item>
   <item>
@@ -1941,7 +1941,7 @@
       <string>21097</string>
     </key>
     <value>
-      <string>Goru's Shuttle</string>
+      <string>高鲁的穿梭机</string>
     </value>
   </item>
   <item>
@@ -1949,7 +1949,7 @@
       <string>21628</string>
     </key>
     <value>
-      <string>Guristas Shuttle</string>
+      <string>古斯塔斯穿梭机</string>
     </value>
   </item>
   <item>
@@ -1957,7 +1957,7 @@
       <string>22428</string>
     </key>
     <value>
-      <string>Redeemer</string>
+      <string>救世级</string>
     </value>
   </item>
   <item>
@@ -1965,7 +1965,7 @@
       <string>22430</string>
     </key>
     <value>
-      <string>Sin</string>
+      <string>罪恶级</string>
     </value>
   </item>
   <item>
@@ -1973,7 +1973,7 @@
       <string>22436</string>
     </key>
     <value>
-      <string>Widow</string>
+      <string>寡妇级</string>
     </value>
   </item>
   <item>
@@ -1981,7 +1981,7 @@
       <string>22440</string>
     </key>
     <value>
-      <string>Panther</string>
+      <string>黑豹级</string>
     </value>
   </item>
   <item>
@@ -1989,7 +1989,7 @@
       <string>22442</string>
     </key>
     <value>
-      <string>Eos</string>
+      <string>曙光女神级</string>
     </value>
   </item>
   <item>
@@ -1997,7 +1997,7 @@
       <string>22444</string>
     </key>
     <value>
-      <string>Sleipnir</string>
+      <string>斯雷普尼级</string>
     </value>
   </item>
   <item>
@@ -2005,7 +2005,7 @@
       <string>22446</string>
     </key>
     <value>
-      <string>Vulture</string>
+      <string>兀鹫级</string>
     </value>
   </item>
   <item>
@@ -2013,7 +2013,7 @@
       <string>22448</string>
     </key>
     <value>
-      <string>Absolution</string>
+      <string>救赎级</string>
     </value>
   </item>
   <item>
@@ -2021,7 +2021,7 @@
       <string>22452</string>
     </key>
     <value>
-      <string>Heretic</string>
+      <string>异端级</string>
     </value>
   </item>
   <item>
@@ -2029,7 +2029,7 @@
       <string>22456</string>
     </key>
     <value>
-      <string>Sabre</string>
+      <string>剑齿虎级</string>
     </value>
   </item>
   <item>
@@ -2037,7 +2037,7 @@
       <string>22460</string>
     </key>
     <value>
-      <string>Eris</string>
+      <string>厄里斯级</string>
     </value>
   </item>
   <item>
@@ -2045,7 +2045,7 @@
       <string>22464</string>
     </key>
     <value>
-      <string>Flycatcher</string>
+      <string>飞燕级</string>
     </value>
   </item>
   <item>
@@ -2053,7 +2053,7 @@
       <string>22466</string>
     </key>
     <value>
-      <string>Astarte</string>
+      <string>阿施塔特级</string>
     </value>
   </item>
   <item>
@@ -2061,7 +2061,7 @@
       <string>22468</string>
     </key>
     <value>
-      <string>Claymore</string>
+      <string>月刃级</string>
     </value>
   </item>
   <item>
@@ -2069,7 +2069,7 @@
       <string>22470</string>
     </key>
     <value>
-      <string>Nighthawk</string>
+      <string>夜鹰级</string>
     </value>
   </item>
   <item>
@@ -2077,7 +2077,7 @@
       <string>22474</string>
     </key>
     <value>
-      <string>Damnation</string>
+      <string>永灭级</string>
     </value>
   </item>
   <item>
@@ -2085,7 +2085,7 @@
       <string>22544</string>
     </key>
     <value>
-      <string>Hulk</string>
+      <string>霍克级</string>
     </value>
   </item>
   <item>
@@ -2093,7 +2093,7 @@
       <string>22546</string>
     </key>
     <value>
-      <string>Skiff</string>
+      <string>轻舟级</string>
     </value>
   </item>
   <item>
@@ -2101,7 +2101,7 @@
       <string>22548</string>
     </key>
     <value>
-      <string>Mackinaw</string>
+      <string>麦基诺级</string>
     </value>
   </item>
   <item>
@@ -2109,7 +2109,7 @@
       <string>22852</string>
     </key>
     <value>
-      <string>Hel</string>
+      <string>冥府级</string>
     </value>
   </item>
   <item>
@@ -2117,7 +2117,7 @@
       <string>23055</string>
     </key>
     <value>
-      <string>Templar I</string>
+      <string>圣殿骑士 I</string>
     </value>
   </item>
   <item>
@@ -2125,7 +2125,7 @@
       <string>23057</string>
     </key>
     <value>
-      <string>Dragonfly I</string>
+      <string>蜻蜓 I</string>
     </value>
   </item>
   <item>
@@ -2133,7 +2133,7 @@
       <string>23059</string>
     </key>
     <value>
-      <string>Firbolg I</string>
+      <string>掷矛手 I</string>
     </value>
   </item>
   <item>
@@ -2141,7 +2141,7 @@
       <string>23061</string>
     </key>
     <value>
-      <string>Einherji I</string>
+      <string>因赫吉 I</string>
     </value>
   </item>
   <item>
@@ -2149,7 +2149,7 @@
       <string>23757</string>
     </key>
     <value>
-      <string>Archon</string>
+      <string>执政官级</string>
     </value>
   </item>
   <item>
@@ -2157,7 +2157,7 @@
       <string>23773</string>
     </key>
     <value>
-      <string>Ragnarok</string>
+      <string>拉格纳洛克级</string>
     </value>
   </item>
   <item>
@@ -2165,7 +2165,7 @@
       <string>23911</string>
     </key>
     <value>
-      <string>Thanatos</string>
+      <string>绝念级</string>
     </value>
   </item>
   <item>
@@ -2173,7 +2173,7 @@
       <string>23913</string>
     </key>
     <value>
-      <string>Nyx</string>
+      <string>夜神级</string>
     </value>
   </item>
   <item>
@@ -2181,7 +2181,7 @@
       <string>23915</string>
     </key>
     <value>
-      <string>Chimera</string>
+      <string>奇美拉级</string>
     </value>
   </item>
   <item>
@@ -2189,7 +2189,7 @@
       <string>23917</string>
     </key>
     <value>
-      <string>Wyvern</string>
+      <string>飞龙级</string>
     </value>
   </item>
   <item>
@@ -2197,7 +2197,7 @@
       <string>23919</string>
     </key>
     <value>
-      <string>Aeon</string>
+      <string>万古级</string>
     </value>
   </item>
   <item>
@@ -2205,7 +2205,7 @@
       <string>24483</string>
     </key>
     <value>
-      <string>Nidhoggur</string>
+      <string>尼铎格尔级</string>
     </value>
   </item>
   <item>
@@ -2213,7 +2213,7 @@
       <string>24688</string>
     </key>
     <value>
-      <string>Rokh</string>
+      <string>鹏鲲级</string>
     </value>
   </item>
   <item>
@@ -2221,7 +2221,7 @@
       <string>24690</string>
     </key>
     <value>
-      <string>Hyperion</string>
+      <string>亥伯龙神级</string>
     </value>
   </item>
   <item>
@@ -2229,7 +2229,7 @@
       <string>24692</string>
     </key>
     <value>
-      <string>Abaddon</string>
+      <string>地狱天使级</string>
     </value>
   </item>
   <item>
@@ -2237,7 +2237,7 @@
       <string>24694</string>
     </key>
     <value>
-      <string>Maelstrom</string>
+      <string>死亡漩涡级</string>
     </value>
   </item>
   <item>
@@ -2245,7 +2245,7 @@
       <string>24696</string>
     </key>
     <value>
-      <string>Harbinger</string>
+      <string>先驱者级</string>
     </value>
   </item>
   <item>
@@ -2253,7 +2253,7 @@
       <string>24698</string>
     </key>
     <value>
-      <string>Drake</string>
+      <string>幼龙级</string>
     </value>
   </item>
   <item>
@@ -2261,7 +2261,7 @@
       <string>24700</string>
     </key>
     <value>
-      <string>Myrmidon</string>
+      <string>弥洱米顿级</string>
     </value>
   </item>
   <item>
@@ -2269,7 +2269,7 @@
       <string>24702</string>
     </key>
     <value>
-      <string>Hurricane</string>
+      <string>暴风级</string>
     </value>
   </item>
   <item>
@@ -2277,7 +2277,7 @@
       <string>25560</string>
     </key>
     <value>
-      <string>Opux Dragoon Yacht</string>
+      <string>奥普克斯龙神级豪华游轮</string>
     </value>
   </item>
   <item>
@@ -2285,7 +2285,7 @@
       <string>26840</string>
     </key>
     <value>
-      <string>Raven State Issue</string>
+      <string>乌鸦级政府型</string>
     </value>
   </item>
   <item>
@@ -2293,7 +2293,7 @@
       <string>26842</string>
     </key>
     <value>
-      <string>Tempest Tribal Issue</string>
+      <string>狂暴级部族型</string>
     </value>
   </item>
   <item>
@@ -2301,7 +2301,7 @@
       <string>26849</string>
     </key>
     <value>
-      <string>Tournament Bubble</string>
+      <string>锦标赛版跃迁阻扰设备</string>
     </value>
   </item>
   <item>
@@ -2309,7 +2309,7 @@
       <string>26888</string>
     </key>
     <value>
-      <string>Mobile Large Warp Disruptor II</string>
+      <string>大型机动跃迁扰断器 II</string>
     </value>
   </item>
   <item>
@@ -2317,7 +2317,7 @@
       <string>26890</string>
     </key>
     <value>
-      <string>Mobile Medium Warp Disruptor II</string>
+      <string>中型机动跃迁扰断器 II</string>
     </value>
   </item>
   <item>
@@ -2325,7 +2325,7 @@
       <string>26892</string>
     </key>
     <value>
-      <string>Mobile Small Warp Disruptor II</string>
+      <string>小型机动跃迁扰断器 II</string>
     </value>
   </item>
   <item>
@@ -2333,7 +2333,7 @@
       <string>27299</string>
     </key>
     <value>
-      <string>Civilian Amarr Shuttle</string>
+      <string>民用艾玛穿梭机</string>
     </value>
   </item>
   <item>
@@ -2341,7 +2341,7 @@
       <string>27301</string>
     </key>
     <value>
-      <string>Civilian Caldari Shuttle</string>
+      <string>民用加达里穿梭机</string>
     </value>
   </item>
   <item>
@@ -2349,7 +2349,7 @@
       <string>27303</string>
     </key>
     <value>
-      <string>Civilian Gallente Shuttle</string>
+      <string>民用盖伦特穿梭机</string>
     </value>
   </item>
   <item>
@@ -2357,7 +2357,7 @@
       <string>27305</string>
     </key>
     <value>
-      <string>Civilian Minmatar Shuttle</string>
+      <string>民用米玛塔尔穿梭机</string>
     </value>
   </item>
   <item>
@@ -2365,7 +2365,7 @@
       <string>28352</string>
     </key>
     <value>
-      <string>Rorqual</string>
+      <string>长须鲸级</string>
     </value>
   </item>
   <item>
@@ -2373,7 +2373,7 @@
       <string>28606</string>
     </key>
     <value>
-      <string>Orca</string>
+      <string>逆戟鲸级</string>
     </value>
   </item>
   <item>
@@ -2381,7 +2381,7 @@
       <string>28659</string>
     </key>
     <value>
-      <string>Paladin</string>
+      <string>帕拉丁级</string>
     </value>
   </item>
   <item>
@@ -2389,7 +2389,7 @@
       <string>28661</string>
     </key>
     <value>
-      <string>Kronos</string>
+      <string>克洛诺斯级</string>
     </value>
   </item>
   <item>
@@ -2397,7 +2397,7 @@
       <string>28665</string>
     </key>
     <value>
-      <string>Vargur</string>
+      <string>恶狼级</string>
     </value>
   </item>
   <item>
@@ -2405,7 +2405,7 @@
       <string>28710</string>
     </key>
     <value>
-      <string>Golem</string>
+      <string>魔像级</string>
     </value>
   </item>
   <item>
@@ -2413,7 +2413,7 @@
       <string>28770</string>
     </key>
     <value>
-      <string>Syndicate Mobile Large Warp Disruptor</string>
+      <string>大型辛迪加机动跃迁扰断器</string>
     </value>
   </item>
   <item>
@@ -2421,7 +2421,7 @@
       <string>28772</string>
     </key>
     <value>
-      <string>Syndicate Mobile Medium Warp Disruptor</string>
+      <string>中型辛迪加机动跃迁扰断器</string>
     </value>
   </item>
   <item>
@@ -2429,7 +2429,7 @@
       <string>28774</string>
     </key>
     <value>
-      <string>Syndicate Mobile Small Warp Disruptor</string>
+      <string>小型辛迪加机动跃迁扰断器</string>
     </value>
   </item>
   <item>
@@ -2437,7 +2437,7 @@
       <string>28844</string>
     </key>
     <value>
-      <string>Rhea</string>
+      <string>奥鸟级</string>
     </value>
   </item>
   <item>
@@ -2445,7 +2445,7 @@
       <string>28846</string>
     </key>
     <value>
-      <string>Nomad</string>
+      <string>游牧者级</string>
     </value>
   </item>
   <item>
@@ -2453,7 +2453,7 @@
       <string>28848</string>
     </key>
     <value>
-      <string>Anshar</string>
+      <string>安莎尔级</string>
     </value>
   </item>
   <item>
@@ -2461,7 +2461,7 @@
       <string>28850</string>
     </key>
     <value>
-      <string>Ark</string>
+      <string>方舟级</string>
     </value>
   </item>
   <item>
@@ -2469,7 +2469,7 @@
       <string>29248</string>
     </key>
     <value>
-      <string>Magnate</string>
+      <string>富豪级</string>
     </value>
   </item>
   <item>
@@ -2477,7 +2477,7 @@
       <string>29266</string>
     </key>
     <value>
-      <string>Apotheosis</string>
+      <string>神圣穿梭机</string>
     </value>
   </item>
   <item>
@@ -2485,7 +2485,7 @@
       <string>29328</string>
     </key>
     <value>
-      <string>Amarr Media Shuttle</string>
+      <string>艾玛传媒穿梭机</string>
     </value>
   </item>
   <item>
@@ -2493,7 +2493,7 @@
       <string>29330</string>
     </key>
     <value>
-      <string>Caldari Media Shuttle</string>
+      <string>加达里传媒穿梭机</string>
     </value>
   </item>
   <item>
@@ -2501,7 +2501,7 @@
       <string>29332</string>
     </key>
     <value>
-      <string>Gallente Media Shuttle</string>
+      <string>盖伦特传媒穿梭机</string>
     </value>
   </item>
   <item>
@@ -2509,7 +2509,7 @@
       <string>29334</string>
     </key>
     <value>
-      <string>Minmatar Media Shuttle</string>
+      <string>米玛塔尔传媒穿梭机</string>
     </value>
   </item>
   <item>
@@ -2517,7 +2517,7 @@
       <string>29336</string>
     </key>
     <value>
-      <string>Scythe Fleet Issue</string>
+      <string>镰刀级舰队型</string>
     </value>
   </item>
   <item>
@@ -2525,7 +2525,7 @@
       <string>29337</string>
     </key>
     <value>
-      <string>Augoror Navy Issue</string>
+      <string>奥格诺级海军型</string>
     </value>
   </item>
   <item>
@@ -2533,7 +2533,7 @@
       <string>29340</string>
     </key>
     <value>
-      <string>Osprey Navy Issue</string>
+      <string>鱼鹰级海军型</string>
     </value>
   </item>
   <item>
@@ -2541,7 +2541,7 @@
       <string>29344</string>
     </key>
     <value>
-      <string>Exequror Navy Issue</string>
+      <string>送葬者级海军型</string>
     </value>
   </item>
   <item>
@@ -2549,7 +2549,7 @@
       <string>29984</string>
     </key>
     <value>
-      <string>Tengu</string>
+      <string>金鹏级</string>
     </value>
   </item>
   <item>
@@ -2557,7 +2557,7 @@
       <string>29986</string>
     </key>
     <value>
-      <string>Legion</string>
+      <string>圣卒级</string>
     </value>
   </item>
   <item>
@@ -2565,7 +2565,7 @@
       <string>29988</string>
     </key>
     <value>
-      <string>Proteus</string>
+      <string>海神级</string>
     </value>
   </item>
   <item>
@@ -2573,7 +2573,7 @@
       <string>29990</string>
     </key>
     <value>
-      <string>Loki</string>
+      <string>洛基级</string>
     </value>
   </item>
   <item>
@@ -2581,7 +2581,7 @@
       <string>30842</string>
     </key>
     <value>
-      <string>InterBus Shuttle</string>
+      <string>星际捷运穿梭机</string>
     </value>
   </item>
   <item>
@@ -2589,7 +2589,7 @@
       <string>32207</string>
     </key>
     <value>
-      <string>Freki</string>
+      <string>暴狼级</string>
     </value>
   </item>
   <item>
@@ -2597,7 +2597,7 @@
       <string>32209</string>
     </key>
     <value>
-      <string>Mimir</string>
+      <string>弥米尔级</string>
     </value>
   </item>
   <item>
@@ -2605,7 +2605,7 @@
       <string>32305</string>
     </key>
     <value>
-      <string>Armageddon Navy Issue</string>
+      <string>末日沙场级海军型</string>
     </value>
   </item>
   <item>
@@ -2613,7 +2613,7 @@
       <string>32307</string>
     </key>
     <value>
-      <string>Dominix Navy Issue</string>
+      <string>多米尼克斯级海军型</string>
     </value>
   </item>
   <item>
@@ -2621,7 +2621,7 @@
       <string>32309</string>
     </key>
     <value>
-      <string>Scorpion Navy Issue</string>
+      <string>毒蝎级海军型</string>
     </value>
   </item>
   <item>
@@ -2629,7 +2629,7 @@
       <string>32311</string>
     </key>
     <value>
-      <string>Typhoon Fleet Issue</string>
+      <string>台风级舰队型</string>
     </value>
   </item>
   <item>
@@ -2637,7 +2637,7 @@
       <string>32325</string>
     </key>
     <value>
-      <string>Cyclops I</string>
+      <string>独眼巨人 I</string>
     </value>
   </item>
   <item>
@@ -2645,7 +2645,7 @@
       <string>32340</string>
     </key>
     <value>
-      <string>Malleus I</string>
+      <string>槌骨 I</string>
     </value>
   </item>
   <item>
@@ -2653,7 +2653,7 @@
       <string>32342</string>
     </key>
     <value>
-      <string>Tyrfing I</string>
+      <string>斩裂剑 I</string>
     </value>
   </item>
   <item>
@@ -2661,7 +2661,7 @@
       <string>32344</string>
     </key>
     <value>
-      <string>Mantis I</string>
+      <string>螳螂 I</string>
     </value>
   </item>
   <item>
@@ -2669,7 +2669,7 @@
       <string>32788</string>
     </key>
     <value>
-      <string>Cambion</string>
+      <string>魔裔级</string>
     </value>
   </item>
   <item>
@@ -2677,7 +2677,7 @@
       <string>32790</string>
     </key>
     <value>
-      <string>Etana</string>
+      <string>伊塔那级</string>
     </value>
   </item>
   <item>
@@ -2685,7 +2685,7 @@
       <string>32811</string>
     </key>
     <value>
-      <string>Miasmos Amastris Edition</string>
+      <string>米亚莫斯级阿玛斯翠丝版</string>
     </value>
   </item>
   <item>
@@ -2693,7 +2693,7 @@
       <string>32840</string>
     </key>
     <value>
-      <string>InterBus Catalyst</string>
+      <string>星际捷运促进级</string>
     </value>
   </item>
   <item>
@@ -2701,7 +2701,7 @@
       <string>32842</string>
     </key>
     <value>
-      <string>Intaki Syndicate Catalyst</string>
+      <string>印塔基联合财团促进级</string>
     </value>
   </item>
   <item>
@@ -2709,7 +2709,7 @@
       <string>32844</string>
     </key>
     <value>
-      <string>Inner Zone Shipping Catalyst</string>
+      <string>短途物流促进级</string>
     </value>
   </item>
   <item>
@@ -2717,7 +2717,7 @@
       <string>32846</string>
     </key>
     <value>
-      <string>Quafe Catalyst</string>
+      <string>酷菲促进级</string>
     </value>
   </item>
   <item>
@@ -2725,7 +2725,7 @@
       <string>32848</string>
     </key>
     <value>
-      <string>Aliastra Catalyst</string>
+      <string>埃拉斯多集团促进级</string>
     </value>
   </item>
   <item>
@@ -2733,7 +2733,7 @@
       <string>32872</string>
     </key>
     <value>
-      <string>Algos</string>
+      <string>阿尔格斯级</string>
     </value>
   </item>
   <item>
@@ -2741,7 +2741,7 @@
       <string>32874</string>
     </key>
     <value>
-      <string>Dragoon</string>
+      <string>龙骑兵级</string>
     </value>
   </item>
   <item>
@@ -2749,7 +2749,7 @@
       <string>32876</string>
     </key>
     <value>
-      <string>Corax</string>
+      <string>渡鸦级</string>
     </value>
   </item>
   <item>
@@ -2757,7 +2757,7 @@
       <string>32878</string>
     </key>
     <value>
-      <string>Talwar</string>
+      <string>弯刀级</string>
     </value>
   </item>
   <item>
@@ -2765,7 +2765,7 @@
       <string>32880</string>
     </key>
     <value>
-      <string>Venture</string>
+      <string>冲锋者级</string>
     </value>
   </item>
   <item>
@@ -2773,7 +2773,7 @@
       <string>32983</string>
     </key>
     <value>
-      <string>Sukuuvestaa Heron</string>
+      <string>斯库维塔苍鹭级</string>
     </value>
   </item>
   <item>
@@ -2781,7 +2781,7 @@
       <string>32985</string>
     </key>
     <value>
-      <string>Inner Zone Shipping Imicus</string>
+      <string>短途物流伊米卡斯级</string>
     </value>
   </item>
   <item>
@@ -2789,7 +2789,7 @@
       <string>32987</string>
     </key>
     <value>
-      <string>Sarum Magnate</string>
+      <string>萨拉姆富豪级</string>
     </value>
   </item>
   <item>
@@ -2797,7 +2797,7 @@
       <string>32989</string>
     </key>
     <value>
-      <string>Vherokior Probe</string>
+      <string>维洛奇亚探索级</string>
     </value>
   </item>
   <item>
@@ -2805,7 +2805,7 @@
       <string>33079</string>
     </key>
     <value>
-      <string>Hematos</string>
+      <string>未来人类级</string>
     </value>
   </item>
   <item>
@@ -2813,7 +2813,7 @@
       <string>33081</string>
     </key>
     <value>
-      <string>Taipan</string>
+      <string>毒蛇级</string>
     </value>
   </item>
   <item>
@@ -2821,7 +2821,7 @@
       <string>33083</string>
     </key>
     <value>
-      <string>Violator</string>
+      <string>违逆者级</string>
     </value>
   </item>
   <item>
@@ -2829,7 +2829,7 @@
       <string>33099</string>
     </key>
     <value>
-      <string>Nefantar Thrasher</string>
+      <string>内凡达长尾鲛级</string>
     </value>
   </item>
   <item>
@@ -2837,7 +2837,7 @@
       <string>33151</string>
     </key>
     <value>
-      <string>Brutix Navy Issue</string>
+      <string>布鲁提克斯级海军型</string>
     </value>
   </item>
   <item>
@@ -2845,7 +2845,7 @@
       <string>33153</string>
     </key>
     <value>
-      <string>Drake Navy Issue</string>
+      <string>幼龙级海军型</string>
     </value>
   </item>
   <item>
@@ -2853,7 +2853,7 @@
       <string>33155</string>
     </key>
     <value>
-      <string>Harbinger Navy Issue</string>
+      <string>先驱者级海军型</string>
     </value>
   </item>
   <item>
@@ -2861,7 +2861,7 @@
       <string>33157</string>
     </key>
     <value>
-      <string>Hurricane Fleet Issue</string>
+      <string>暴风级舰队型</string>
     </value>
   </item>
   <item>
@@ -2869,7 +2869,7 @@
       <string>33190</string>
     </key>
     <value>
-      <string>Tash-Murkon Magnate</string>
+      <string>塔什蒙贡富豪级</string>
     </value>
   </item>
   <item>
@@ -2877,7 +2877,7 @@
       <string>33328</string>
     </key>
     <value>
-      <string>Capsule - Genolution 'Auroral' 197-variant</string>
+      <string>太空舱 - 格鲁汀 曙光 197-衍生型</string>
     </value>
   </item>
   <item>
@@ -2885,7 +2885,7 @@
       <string>33395</string>
     </key>
     <value>
-      <string>Moracha</string>
+      <string>莫拉查级</string>
     </value>
   </item>
   <item>
@@ -2893,7 +2893,7 @@
       <string>33397</string>
     </key>
     <value>
-      <string>Chremoas</string>
+      <string>克雷默斯级</string>
     </value>
   </item>
   <item>
@@ -2901,7 +2901,7 @@
       <string>33468</string>
     </key>
     <value>
-      <string>Astero</string>
+      <string>阿斯特罗级</string>
     </value>
   </item>
   <item>
@@ -2909,7 +2909,7 @@
       <string>33470</string>
     </key>
     <value>
-      <string>Stratios</string>
+      <string>斯特修斯级</string>
     </value>
   </item>
   <item>
@@ -2917,7 +2917,7 @@
       <string>33472</string>
     </key>
     <value>
-      <string>Nestor</string>
+      <string>涅斯托级</string>
     </value>
   </item>
   <item>
@@ -2925,7 +2925,7 @@
       <string>33474</string>
     </key>
     <value>
-      <string>Mobile Depot</string>
+      <string>移动式仓库</string>
     </value>
   </item>
   <item>
@@ -2933,7 +2933,7 @@
       <string>33475</string>
     </key>
     <value>
-      <string>Mobile Tractor Unit</string>
+      <string>移动式牵引装置</string>
     </value>
   </item>
   <item>
@@ -2941,7 +2941,7 @@
       <string>33476</string>
     </key>
     <value>
-      <string>Mobile Cynosural Inhibitor</string>
+      <string>移动式诱导抑制装置</string>
     </value>
   </item>
   <item>
@@ -2949,7 +2949,7 @@
       <string>33477</string>
     </key>
     <value>
-      <string>Small Mobile Siphon Unit</string>
+      <string>小型移动式虹吸装置</string>
     </value>
   </item>
   <item>
@@ -2957,7 +2957,7 @@
       <string>33478</string>
     </key>
     <value>
-      <string>Medium Mobile Siphon Unit</string>
+      <string>中型移动式虹吸装置</string>
     </value>
   </item>
   <item>
@@ -2965,7 +2965,7 @@
       <string>33479</string>
     </key>
     <value>
-      <string>Large Mobile Siphon Unit</string>
+      <string>大型移动式虹吸装置</string>
     </value>
   </item>
   <item>
@@ -2973,7 +2973,7 @@
       <string>33513</string>
     </key>
     <value>
-      <string>Leopard</string>
+      <string>美洲豹级</string>
     </value>
   </item>
   <item>
@@ -2981,7 +2981,7 @@
       <string>33520</string>
     </key>
     <value>
-      <string>'Wetu' Mobile Depot</string>
+      <string>小屋移动式仓库</string>
     </value>
   </item>
   <item>
@@ -2989,7 +2989,7 @@
       <string>33522</string>
     </key>
     <value>
-      <string>'Yurt' Mobile Depot</string>
+      <string>帐篷移动式仓库</string>
     </value>
   </item>
   <item>
@@ -2997,7 +2997,7 @@
       <string>33553</string>
     </key>
     <value>
-      <string>Stratios Emergency Responder</string>
+      <string>斯特修斯级应急反应型</string>
     </value>
   </item>
   <item>
@@ -3005,7 +3005,7 @@
       <string>33581</string>
     </key>
     <value>
-      <string>Small Mobile 'Hybrid' Siphon Unit</string>
+      <string>小型混合物移动式虹吸装置</string>
     </value>
   </item>
   <item>
@@ -3013,7 +3013,7 @@
       <string>33583</string>
     </key>
     <value>
-      <string>Small Mobile 'Rote' Siphon Unit</string>
+      <string>小型搬运工移动式虹吸装置</string>
     </value>
   </item>
   <item>
@@ -3021,7 +3021,7 @@
       <string>33585</string>
     </key>
     <value>
-      <string>Defunct Amarr Encounter Surveillance System</string>
+      <string>失效的艾玛事件监测装置</string>
     </value>
   </item>
   <item>
@@ -3029,7 +3029,7 @@
       <string>33587</string>
     </key>
     <value>
-      <string>Mobile Decoy Unit</string>
+      <string>移动式诱捕装置</string>
     </value>
   </item>
   <item>
@@ -3037,7 +3037,7 @@
       <string>33589</string>
     </key>
     <value>
-      <string>Mobile Scan Inhibitor</string>
+      <string>移动式扫描抑制装置</string>
     </value>
   </item>
   <item>
@@ -3045,7 +3045,7 @@
       <string>33591</string>
     </key>
     <value>
-      <string>Mobile Micro Jump Unit</string>
+      <string>移动式微型跳跃装置</string>
     </value>
   </item>
   <item>
@@ -3053,7 +3053,7 @@
       <string>33595</string>
     </key>
     <value>
-      <string>Defunct Caldari Encounter Surveillance System</string>
+      <string>失效的加达里事件监测装置</string>
     </value>
   </item>
   <item>
@@ -3061,7 +3061,7 @@
       <string>33608</string>
     </key>
     <value>
-      <string>Defunct Gallente Encounter Surveillance System</string>
+      <string>失效的盖伦特事件监测装置</string>
     </value>
   </item>
   <item>
@@ -3069,7 +3069,7 @@
       <string>33610</string>
     </key>
     <value>
-      <string>Defunct Minmatar Encounter Surveillance System</string>
+      <string>失效的米玛塔尔事件监测装置</string>
     </value>
   </item>
   <item>
@@ -3077,7 +3077,7 @@
       <string>33623</string>
     </key>
     <value>
-      <string>Abaddon Tash-Murkon Edition</string>
+      <string>地狱天使级塔什蒙贡版</string>
     </value>
   </item>
   <item>
@@ -3085,7 +3085,7 @@
       <string>33625</string>
     </key>
     <value>
-      <string>Abaddon Kador Edition</string>
+      <string>地狱天使级卡多尔版</string>
     </value>
   </item>
   <item>
@@ -3093,7 +3093,7 @@
       <string>33627</string>
     </key>
     <value>
-      <string>Rokh Nugoeihuvi Edition</string>
+      <string>鹏鲲级纳基维版</string>
     </value>
   </item>
   <item>
@@ -3101,7 +3101,7 @@
       <string>33629</string>
     </key>
     <value>
-      <string>Rokh Wiyrkomi Edition</string>
+      <string>鹏鲲级维克米集团版</string>
     </value>
   </item>
   <item>
@@ -3109,7 +3109,7 @@
       <string>33631</string>
     </key>
     <value>
-      <string>Maelstrom Nefantar Edition</string>
+      <string>死亡漩涡级内凡达版</string>
     </value>
   </item>
   <item>
@@ -3117,7 +3117,7 @@
       <string>33633</string>
     </key>
     <value>
-      <string>Maelstrom Krusual Edition</string>
+      <string>死亡漩涡级克鲁夏版</string>
     </value>
   </item>
   <item>
@@ -3125,7 +3125,7 @@
       <string>33635</string>
     </key>
     <value>
-      <string>Hyperion Aliastra Edition</string>
+      <string>亥伯龙神级埃拉斯多集团版</string>
     </value>
   </item>
   <item>
@@ -3133,7 +3133,7 @@
       <string>33637</string>
     </key>
     <value>
-      <string>Hyperion Inner Zone Shipping Edition</string>
+      <string>亥伯龙神级短途物流版</string>
     </value>
   </item>
   <item>
@@ -3141,7 +3141,7 @@
       <string>33639</string>
     </key>
     <value>
-      <string>Omen Kador Edition</string>
+      <string>启示级卡多尔版</string>
     </value>
   </item>
   <item>
@@ -3149,7 +3149,7 @@
       <string>33641</string>
     </key>
     <value>
-      <string>Omen Tash-Murkon Edition</string>
+      <string>启示级塔什蒙贡版</string>
     </value>
   </item>
   <item>
@@ -3157,7 +3157,7 @@
       <string>33643</string>
     </key>
     <value>
-      <string>Caracal Nugoeihuvi Edition</string>
+      <string>狞獾级纳基维版</string>
     </value>
   </item>
   <item>
@@ -3165,7 +3165,7 @@
       <string>33645</string>
     </key>
     <value>
-      <string>Caracal Wiyrkomi Edition</string>
+      <string>狞獾级维克米集团版</string>
     </value>
   </item>
   <item>
@@ -3173,7 +3173,7 @@
       <string>33647</string>
     </key>
     <value>
-      <string>Stabber Nefantar Edition</string>
+      <string>刺客级内凡达版</string>
     </value>
   </item>
   <item>
@@ -3181,7 +3181,7 @@
       <string>33649</string>
     </key>
     <value>
-      <string>Stabber Krusual Edition</string>
+      <string>刺客级克鲁夏版</string>
     </value>
   </item>
   <item>
@@ -3189,7 +3189,7 @@
       <string>33651</string>
     </key>
     <value>
-      <string>Thorax Aliastra Edition</string>
+      <string>托勒克斯级埃拉斯多集团版</string>
     </value>
   </item>
   <item>
@@ -3197,7 +3197,7 @@
       <string>33653</string>
     </key>
     <value>
-      <string>Thorax Inner Zone Shipping Edition</string>
+      <string>托勒克斯级短途物流版</string>
     </value>
   </item>
   <item>
@@ -3205,7 +3205,7 @@
       <string>33655</string>
     </key>
     <value>
-      <string>Punisher Kador Edition</string>
+      <string>惩罚者级卡多尔版</string>
     </value>
   </item>
   <item>
@@ -3213,7 +3213,7 @@
       <string>33657</string>
     </key>
     <value>
-      <string>Punisher Tash-Murkon Edition</string>
+      <string>惩罚者级塔什蒙贡版</string>
     </value>
   </item>
   <item>
@@ -3221,7 +3221,7 @@
       <string>33659</string>
     </key>
     <value>
-      <string>Merlin Nugoeihuvi Edition</string>
+      <string>小鹰级纳基维版</string>
     </value>
   </item>
   <item>
@@ -3229,7 +3229,7 @@
       <string>33661</string>
     </key>
     <value>
-      <string>Merlin Wiyrkomi Edition</string>
+      <string>小鹰级维克米集团版</string>
     </value>
   </item>
   <item>
@@ -3237,7 +3237,7 @@
       <string>33663</string>
     </key>
     <value>
-      <string>Rifter Nefantar Edition</string>
+      <string>裂谷级内凡达版</string>
     </value>
   </item>
   <item>
@@ -3245,7 +3245,7 @@
       <string>33665</string>
     </key>
     <value>
-      <string>Rifter Krusual Edition</string>
+      <string>裂谷级克鲁夏版</string>
     </value>
   </item>
   <item>
@@ -3253,7 +3253,7 @@
       <string>33667</string>
     </key>
     <value>
-      <string>Incursus Aliastra Edition</string>
+      <string>因卡萨斯级埃拉斯多集团版</string>
     </value>
   </item>
   <item>
@@ -3261,7 +3261,7 @@
       <string>33669</string>
     </key>
     <value>
-      <string>Incursus Inner Zone Shipping Edition</string>
+      <string>因卡萨斯级短途物流版</string>
     </value>
   </item>
   <item>
@@ -3269,7 +3269,7 @@
       <string>33673</string>
     </key>
     <value>
-      <string>Whiptail</string>
+      <string>长尾蜥级</string>
     </value>
   </item>
   <item>
@@ -3277,7 +3277,7 @@
       <string>33675</string>
     </key>
     <value>
-      <string>Chameleon</string>
+      <string>变色龙级</string>
     </value>
   </item>
   <item>
@@ -3285,7 +3285,7 @@
       <string>33677</string>
     </key>
     <value>
-      <string>Police Pursuit Comet</string>
+      <string>警察追击彗星级</string>
     </value>
   </item>
   <item>
@@ -3293,7 +3293,7 @@
       <string>33683</string>
     </key>
     <value>
-      <string>Mackinaw ORE Development Edition</string>
+      <string>麦基诺级ORE开发版</string>
     </value>
   </item>
   <item>
@@ -3301,7 +3301,7 @@
       <string>33685</string>
     </key>
     <value>
-      <string>Orca ORE Development Edition</string>
+      <string>逆戟鲸级ORE开发版</string>
     </value>
   </item>
   <item>
@@ -3309,7 +3309,7 @@
       <string>33687</string>
     </key>
     <value>
-      <string>Rorqual ORE Development Edition</string>
+      <string>长须鲸级ORE开发版</string>
     </value>
   </item>
   <item>
@@ -3317,7 +3317,7 @@
       <string>33689</string>
     </key>
     <value>
-      <string>Iteron Inner Zone Shipping Edition</string>
+      <string>伊特龙级短途物流版</string>
     </value>
   </item>
   <item>
@@ -3325,7 +3325,7 @@
       <string>33691</string>
     </key>
     <value>
-      <string>Tayra Wiyrkomi Edition</string>
+      <string>狐鼬级维克米集团版</string>
     </value>
   </item>
   <item>
@@ -3333,7 +3333,7 @@
       <string>33693</string>
     </key>
     <value>
-      <string>Mammoth Nefantar Edition</string>
+      <string>猛犸级内凡达版</string>
     </value>
   </item>
   <item>
@@ -3341,7 +3341,7 @@
       <string>33695</string>
     </key>
     <value>
-      <string>Bestower Tash-Murkon Edition</string>
+      <string>恩赐者级塔什蒙贡版</string>
     </value>
   </item>
   <item>
@@ -3349,7 +3349,7 @@
       <string>33697</string>
     </key>
     <value>
-      <string>Prospect</string>
+      <string>掘金者级</string>
     </value>
   </item>
   <item>
@@ -3357,7 +3357,7 @@
       <string>33700</string>
     </key>
     <value>
-      <string>'Packrat' Mobile Tractor Unit</string>
+      <string>林鼠移动式牵引装置</string>
     </value>
   </item>
   <item>
@@ -3365,7 +3365,7 @@
       <string>33702</string>
     </key>
     <value>
-      <string>'Magpie' Mobile Tractor Unit</string>
+      <string>喜鹊移动式牵引装置</string>
     </value>
   </item>
   <item>
@@ -3373,7 +3373,7 @@
       <string>33816</string>
     </key>
     <value>
-      <string>Garmur</string>
+      <string>加姆级</string>
     </value>
   </item>
   <item>
@@ -3381,7 +3381,7 @@
       <string>33818</string>
     </key>
     <value>
-      <string>Orthrus</string>
+      <string>奥苏斯级</string>
     </value>
   </item>
   <item>
@@ -3389,7 +3389,7 @@
       <string>33820</string>
     </key>
     <value>
-      <string>Barghest</string>
+      <string>巴盖斯级</string>
     </value>
   </item>
   <item>
@@ -3397,7 +3397,7 @@
       <string>33869</string>
     </key>
     <value>
-      <string>Brutix Serpentis Edition</string>
+      <string>布鲁提克斯级天蛇版</string>
     </value>
   </item>
   <item>
@@ -3405,7 +3405,7 @@
       <string>33871</string>
     </key>
     <value>
-      <string>Cyclone Thukker Tribe Edition</string>
+      <string>飓风级图克尔部族版</string>
     </value>
   </item>
   <item>
@@ -3413,7 +3413,7 @@
       <string>33873</string>
     </key>
     <value>
-      <string>Ferox Guristas Edition</string>
+      <string>猛鲑级古斯塔斯版</string>
     </value>
   </item>
   <item>
@@ -3421,7 +3421,7 @@
       <string>33875</string>
     </key>
     <value>
-      <string>Prophecy Blood Raiders Edition</string>
+      <string>先知级血袭者版</string>
     </value>
   </item>
   <item>
@@ -3429,7 +3429,7 @@
       <string>33877</string>
     </key>
     <value>
-      <string>Catalyst Serpentis Edition</string>
+      <string>促进级天蛇版</string>
     </value>
   </item>
   <item>
@@ -3437,7 +3437,7 @@
       <string>33879</string>
     </key>
     <value>
-      <string>Coercer Blood Raiders Edition</string>
+      <string>强制者级血袭者版</string>
     </value>
   </item>
   <item>
@@ -3445,7 +3445,7 @@
       <string>33881</string>
     </key>
     <value>
-      <string>Cormorant Guristas Edition</string>
+      <string>海燕级古斯塔斯版</string>
     </value>
   </item>
   <item>
@@ -3453,7 +3453,7 @@
       <string>33883</string>
     </key>
     <value>
-      <string>Thrasher Thukker Tribe Edition</string>
+      <string>长尾鲛级图克尔部族版</string>
     </value>
   </item>
   <item>
@@ -3461,7 +3461,7 @@
       <string>33990</string>
     </key>
     <value>
-      <string>Tournament Micro Jump Unit</string>
+      <string>锦标赛微型跳跃装置</string>
     </value>
   </item>
   <item>
@@ -3469,7 +3469,7 @@
       <string>34118</string>
     </key>
     <value>
-      <string>Megathron Quafe Edition</string>
+      <string>万王宝座级酷菲版</string>
     </value>
   </item>
   <item>
@@ -3485,7 +3485,7 @@
       <string>34151</string>
     </key>
     <value>
-      <string>Rattlesnake Victory Edition</string>
+      <string>响尾蛇级胜利版</string>
     </value>
   </item>
   <item>
@@ -3493,7 +3493,7 @@
       <string>34213</string>
     </key>
     <value>
-      <string>Apocalypse Blood Raider Edition</string>
+      <string>灾难级血袭者版</string>
     </value>
   </item>
   <item>
@@ -3501,7 +3501,7 @@
       <string>34215</string>
     </key>
     <value>
-      <string>Apocalypse Kador Edition</string>
+      <string>灾难级卡多尔版</string>
     </value>
   </item>
   <item>
@@ -3509,7 +3509,7 @@
       <string>34217</string>
     </key>
     <value>
-      <string>Apocalypse Tash-Murkon Edition</string>
+      <string>灾难级塔什蒙贡版</string>
     </value>
   </item>
   <item>
@@ -3517,7 +3517,7 @@
       <string>34219</string>
     </key>
     <value>
-      <string>Paladin Blood Raider Edition</string>
+      <string>帕拉丁级血袭者版</string>
     </value>
   </item>
   <item>
@@ -3525,7 +3525,7 @@
       <string>34221</string>
     </key>
     <value>
-      <string>Paladin Kador Edition</string>
+      <string>帕拉丁级卡多尔版</string>
     </value>
   </item>
   <item>
@@ -3533,7 +3533,7 @@
       <string>34223</string>
     </key>
     <value>
-      <string>Paladin Tash-Murkon Edition</string>
+      <string>帕拉丁级塔什蒙贡版</string>
     </value>
   </item>
   <item>
@@ -3541,7 +3541,7 @@
       <string>34225</string>
     </key>
     <value>
-      <string>Raven Guristas Edition</string>
+      <string>乌鸦级古斯塔斯版</string>
     </value>
   </item>
   <item>
@@ -3549,7 +3549,7 @@
       <string>34227</string>
     </key>
     <value>
-      <string>Raven Kaalakiota Edition</string>
+      <string>乌鸦级卡拉吉塔集团版</string>
     </value>
   </item>
   <item>
@@ -3557,7 +3557,7 @@
       <string>34229</string>
     </key>
     <value>
-      <string>Raven Nugoeihuvi Edition</string>
+      <string>乌鸦级纳基维版</string>
     </value>
   </item>
   <item>
@@ -3565,7 +3565,7 @@
       <string>34231</string>
     </key>
     <value>
-      <string>Golem Guristas Edition</string>
+      <string>魔像级古斯塔斯版</string>
     </value>
   </item>
   <item>
@@ -3573,7 +3573,7 @@
       <string>34233</string>
     </key>
     <value>
-      <string>Golem Kaalakiota Edition</string>
+      <string>魔像级卡拉吉塔集团版</string>
     </value>
   </item>
   <item>
@@ -3581,7 +3581,7 @@
       <string>34235</string>
     </key>
     <value>
-      <string>Golem Nugoeihuvi Edition</string>
+      <string>魔像级纳基维版</string>
     </value>
   </item>
   <item>
@@ -3589,7 +3589,7 @@
       <string>34237</string>
     </key>
     <value>
-      <string>Megathron Police Edition</string>
+      <string>万王宝座级警察版</string>
     </value>
   </item>
   <item>
@@ -3597,7 +3597,7 @@
       <string>34239</string>
     </key>
     <value>
-      <string>Megathron Inner Zone Shipping Edition</string>
+      <string>万王宝座级短途物流版</string>
     </value>
   </item>
   <item>
@@ -3605,7 +3605,7 @@
       <string>34241</string>
     </key>
     <value>
-      <string>Kronos Police Edition</string>
+      <string>克洛诺斯级警察版</string>
     </value>
   </item>
   <item>
@@ -3613,7 +3613,7 @@
       <string>34243</string>
     </key>
     <value>
-      <string>Kronos Quafe Edition</string>
+      <string>克洛诺斯级酷菲版</string>
     </value>
   </item>
   <item>
@@ -3621,7 +3621,7 @@
       <string>34245</string>
     </key>
     <value>
-      <string>Kronos Inner Zone Shipping Edition</string>
+      <string>克洛诺斯短途物流版</string>
     </value>
   </item>
   <item>
@@ -3629,7 +3629,7 @@
       <string>34247</string>
     </key>
     <value>
-      <string>Tempest Justice Edition</string>
+      <string>狂暴级司法局版</string>
     </value>
   </item>
   <item>
@@ -3637,7 +3637,7 @@
       <string>34249</string>
     </key>
     <value>
-      <string>Tempest Krusual Edition</string>
+      <string>狂暴级克鲁夏版</string>
     </value>
   </item>
   <item>
@@ -3645,7 +3645,7 @@
       <string>34251</string>
     </key>
     <value>
-      <string>Tempest Nefantar Edition</string>
+      <string>狂暴级内凡达版</string>
     </value>
   </item>
   <item>
@@ -3653,7 +3653,7 @@
       <string>34253</string>
     </key>
     <value>
-      <string>Vargur Justice Edition</string>
+      <string>恶狼级司法局版</string>
     </value>
   </item>
   <item>
@@ -3661,7 +3661,7 @@
       <string>34255</string>
     </key>
     <value>
-      <string>Vargur Krusual Edition</string>
+      <string>恶狼级克鲁夏版</string>
     </value>
   </item>
   <item>
@@ -3669,7 +3669,7 @@
       <string>34257</string>
     </key>
     <value>
-      <string>Vargur Nefantar Edition</string>
+      <string>恶狼级内凡达版</string>
     </value>
   </item>
   <item>
@@ -3677,7 +3677,7 @@
       <string>34317</string>
     </key>
     <value>
-      <string>Confessor</string>
+      <string>忏悔者级</string>
     </value>
   </item>
   <item>
@@ -3685,7 +3685,7 @@
       <string>34328</string>
     </key>
     <value>
-      <string>Bowhead</string>
+      <string>弓头鲸级</string>
     </value>
   </item>
   <item>
@@ -3693,7 +3693,7 @@
       <string>34339</string>
     </key>
     <value>
-      <string>Moros Interbus Edition</string>
+      <string>莫洛级星际捷运版</string>
     </value>
   </item>
   <item>
@@ -3701,7 +3701,7 @@
       <string>34341</string>
     </key>
     <value>
-      <string>Naglfar Justice Edition</string>
+      <string>纳迦法级司法局版</string>
     </value>
   </item>
   <item>
@@ -3709,7 +3709,7 @@
       <string>34343</string>
     </key>
     <value>
-      <string>Phoenix Wiyrkomi Edition</string>
+      <string>凤凰级维克米集团版</string>
     </value>
   </item>
   <item>
@@ -3717,7 +3717,7 @@
       <string>34345</string>
     </key>
     <value>
-      <string>Revelation Sarum Edition</string>
+      <string>神示级萨拉姆版</string>
     </value>
   </item>
   <item>
@@ -3725,7 +3725,7 @@
       <string>34441</string>
     </key>
     <value>
-      <string>Dominix Quafe Edition</string>
+      <string>多米尼克斯级酷菲版</string>
     </value>
   </item>
   <item>
@@ -3733,7 +3733,7 @@
       <string>34443</string>
     </key>
     <value>
-      <string>Tristan Quafe Edition</string>
+      <string>特里斯坦级酷菲版</string>
     </value>
   </item>
   <item>
@@ -3741,7 +3741,7 @@
       <string>34445</string>
     </key>
     <value>
-      <string>Vexor Quafe Edition</string>
+      <string>狂怒者级酷菲版</string>
     </value>
   </item>
   <item>
@@ -3845,7 +3845,7 @@
       <string>34496</string>
     </key>
     <value>
-      <string>Council Diplomatic Shuttle</string>
+      <string>议会外交穿梭机</string>
     </value>
   </item>
   <item>
@@ -3853,7 +3853,7 @@
       <string>34562</string>
     </key>
     <value>
-      <string>Svipul</string>
+      <string>斯威普级</string>
     </value>
   </item>
   <item>
@@ -3861,7 +3861,7 @@
       <string>34590</string>
     </key>
     <value>
-      <string>Victorieux Luxury Yacht</string>
+      <string>凯旋奢华游艇</string>
     </value>
   </item>
   <item>
@@ -3869,7 +3869,7 @@
       <string>34828</string>
     </key>
     <value>
-      <string>Jackdaw</string>
+      <string>寒鸦级</string>
     </value>
   </item>
   <item>
@@ -3877,7 +3877,7 @@
       <string>35683</string>
     </key>
     <value>
-      <string>Hecate</string>
+      <string>赫卡特级</string>
     </value>
   </item>
   <item>
@@ -3885,7 +3885,7 @@
       <string>35779</string>
     </key>
     <value>
-      <string>Imp</string>
+      <string>小鬼级</string>
     </value>
   </item>
   <item>
@@ -3893,7 +3893,7 @@
       <string>35781</string>
     </key>
     <value>
-      <string>Fiend</string>
+      <string>恶魔级</string>
     </value>
   </item>
   <item>
@@ -3901,7 +3901,7 @@
       <string>35825</string>
     </key>
     <value>
-      <string>Raitaru</string>
+      <string>莱塔卢</string>
     </value>
   </item>
   <item>
@@ -3909,7 +3909,7 @@
       <string>35826</string>
     </key>
     <value>
-      <string>Azbel</string>
+      <string>阿兹贝尔</string>
     </value>
   </item>
   <item>
@@ -3917,7 +3917,7 @@
       <string>35827</string>
     </key>
     <value>
-      <string>Sotiyo</string>
+      <string>索迪约</string>
     </value>
   </item>
   <item>
@@ -3925,7 +3925,7 @@
       <string>35828</string>
     </key>
     <value>
-      <string>Medium Laboratory</string>
+      <string>中型实验室</string>
     </value>
   </item>
   <item>
@@ -3933,7 +3933,7 @@
       <string>35829</string>
     </key>
     <value>
-      <string>Large Laboratory</string>
+      <string>大型实验室</string>
     </value>
   </item>
   <item>
@@ -3941,7 +3941,7 @@
       <string>35830</string>
     </key>
     <value>
-      <string>X-Large Laboratory</string>
+      <string>超大型实验室</string>
     </value>
   </item>
   <item>
@@ -3949,7 +3949,7 @@
       <string>35832</string>
     </key>
     <value>
-      <string>Astrahus</string>
+      <string>空堡</string>
     </value>
   </item>
   <item>
@@ -3957,7 +3957,7 @@
       <string>35833</string>
     </key>
     <value>
-      <string>Fortizar</string>
+      <string>铁壁</string>
     </value>
   </item>
   <item>
@@ -3965,7 +3965,7 @@
       <string>35834</string>
     </key>
     <value>
-      <string>Keepstar</string>
+      <string>星城</string>
     </value>
   </item>
   <item>
@@ -3973,7 +3973,7 @@
       <string>35835</string>
     </key>
     <value>
-      <string>Athanor</string>
+      <string>阿塔诺</string>
     </value>
   </item>
   <item>
@@ -3981,7 +3981,7 @@
       <string>35836</string>
     </key>
     <value>
-      <string>Tatara</string>
+      <string>塔塔拉</string>
     </value>
   </item>
   <item>
@@ -3989,7 +3989,7 @@
       <string>35837</string>
     </key>
     <value>
-      <string>Custom gate 1</string>
+      <string>自定义星门 1</string>
     </value>
   </item>
   <item>
@@ -3997,7 +3997,7 @@
       <string>35838</string>
     </key>
     <value>
-      <string>Medium Observatory Array</string>
+      <string>中型瞭望阵列</string>
     </value>
   </item>
   <item>
@@ -4005,7 +4005,7 @@
       <string>35839</string>
     </key>
     <value>
-      <string>Large Observatory Array</string>
+      <string>大型瞭望阵列</string>
     </value>
   </item>
   <item>
@@ -4013,7 +4013,7 @@
       <string>35841</string>
     </key>
     <value>
-      <string>Ansiblex Jump Bridge</string>
+      <string>安塞波跳跃桥接</string>
     </value>
   </item>
   <item>
@@ -4021,7 +4021,7 @@
       <string>35842</string>
     </key>
     <value>
-      <string>Medium Administration Hub</string>
+      <string>中型行政中心</string>
     </value>
   </item>
   <item>
@@ -4029,7 +4029,7 @@
       <string>35843</string>
     </key>
     <value>
-      <string>Large Administration Hub</string>
+      <string>大型行政中心</string>
     </value>
   </item>
   <item>
@@ -4037,7 +4037,7 @@
       <string>35844</string>
     </key>
     <value>
-      <string>X-Large Administration Hub</string>
+      <string>超大型行政中心</string>
     </value>
   </item>
   <item>
@@ -4053,7 +4053,7 @@
       <string>37135</string>
     </key>
     <value>
-      <string>Endurance</string>
+      <string>永恒者级</string>
     </value>
   </item>
   <item>
@@ -4061,7 +4061,7 @@
       <string>37453</string>
     </key>
     <value>
-      <string>Crucifier Navy Issue</string>
+      <string>磨难级海军型</string>
     </value>
   </item>
   <item>
@@ -4069,7 +4069,7 @@
       <string>37454</string>
     </key>
     <value>
-      <string>Vigil Fleet Issue</string>
+      <string>守夜者级舰队型</string>
     </value>
   </item>
   <item>
@@ -4077,7 +4077,7 @@
       <string>37455</string>
     </key>
     <value>
-      <string>Griffin Navy Issue</string>
+      <string>狮鹫级海军型</string>
     </value>
   </item>
   <item>
@@ -4085,7 +4085,7 @@
       <string>37456</string>
     </key>
     <value>
-      <string>Maulus Navy Issue</string>
+      <string>毛鲁斯级海军型</string>
     </value>
   </item>
   <item>
@@ -4093,7 +4093,7 @@
       <string>37457</string>
     </key>
     <value>
-      <string>Deacon</string>
+      <string>执事级</string>
     </value>
   </item>
   <item>
@@ -4101,7 +4101,7 @@
       <string>37458</string>
     </key>
     <value>
-      <string>Kirin</string>
+      <string>麒麟级</string>
     </value>
   </item>
   <item>
@@ -4109,7 +4109,7 @@
       <string>37459</string>
     </key>
     <value>
-      <string>Thalia</string>
+      <string>塔利亚级</string>
     </value>
   </item>
   <item>
@@ -4117,7 +4117,7 @@
       <string>37460</string>
     </key>
     <value>
-      <string>Scalpel</string>
+      <string>手术刀级</string>
     </value>
   </item>
   <item>
@@ -4125,7 +4125,7 @@
       <string>37480</string>
     </key>
     <value>
-      <string>Bifrost</string>
+      <string>天梯级</string>
     </value>
   </item>
   <item>
@@ -4133,7 +4133,7 @@
       <string>37481</string>
     </key>
     <value>
-      <string>Pontifex</string>
+      <string>教皇级</string>
     </value>
   </item>
   <item>
@@ -4141,7 +4141,7 @@
       <string>37482</string>
     </key>
     <value>
-      <string>Stork</string>
+      <string>鹳鸟级</string>
     </value>
   </item>
   <item>
@@ -4149,7 +4149,7 @@
       <string>37483</string>
     </key>
     <value>
-      <string>Magus</string>
+      <string>占星级</string>
     </value>
   </item>
   <item>
@@ -4157,7 +4157,7 @@
       <string>37533</string>
     </key>
     <value>
-      <string>X-Large Observatory Array</string>
+      <string>超大型瞭望阵列</string>
     </value>
   </item>
   <item>
@@ -4165,7 +4165,7 @@
       <string>37535</string>
     </key>
     <value>
-      <string>Upwell Simple Advertisement Center</string>
+      <string>昇威简易广告中心</string>
     </value>
   </item>
   <item>
@@ -4173,7 +4173,7 @@
       <string>37536</string>
     </key>
     <value>
-      <string>Upwell Advanced Advertisement Center</string>
+      <string>昇威高级广告中心</string>
     </value>
   </item>
   <item>
@@ -4181,7 +4181,7 @@
       <string>37599</string>
     </key>
     <value>
-      <string>Cenobite I</string>
+      <string>修道士 I</string>
     </value>
   </item>
   <item>
@@ -4189,7 +4189,7 @@
       <string>37604</string>
     </key>
     <value>
-      <string>Apostle</string>
+      <string>使徒级</string>
     </value>
   </item>
   <item>
@@ -4197,7 +4197,7 @@
       <string>37605</string>
     </key>
     <value>
-      <string>Minokawa</string>
+      <string>龙鸟级</string>
     </value>
   </item>
   <item>
@@ -4205,7 +4205,7 @@
       <string>37606</string>
     </key>
     <value>
-      <string>Lif</string>
+      <string>利夫级</string>
     </value>
   </item>
   <item>
@@ -4213,7 +4213,7 @@
       <string>37607</string>
     </key>
     <value>
-      <string>Ninazu</string>
+      <string>尼纳苏级</string>
     </value>
   </item>
   <item>
@@ -4221,7 +4221,7 @@
       <string>40340</string>
     </key>
     <value>
-      <string>Upwell Palatine Keepstar</string>
+      <string>昇威豪华星城</string>
     </value>
   </item>
   <item>
@@ -4229,7 +4229,7 @@
       <string>40345</string>
     </key>
     <value>
-      <string>Scarab I</string>
+      <string>圣甲虫 I</string>
     </value>
   </item>
   <item>
@@ -4237,7 +4237,7 @@
       <string>40346</string>
     </key>
     <value>
-      <string>Siren I</string>
+      <string>塞壬 I</string>
     </value>
   </item>
   <item>
@@ -4245,7 +4245,7 @@
       <string>40347</string>
     </key>
     <value>
-      <string>Dromi I</string>
+      <string>德洛米 I</string>
     </value>
   </item>
   <item>
@@ -4253,7 +4253,7 @@
       <string>40358</string>
     </key>
     <value>
-      <string>Equite I</string>
+      <string>骑士 I</string>
     </value>
   </item>
   <item>
@@ -4261,7 +4261,7 @@
       <string>40359</string>
     </key>
     <value>
-      <string>Locust I</string>
+      <string>蚱蜢 I</string>
     </value>
   </item>
   <item>
@@ -4269,7 +4269,7 @@
       <string>40360</string>
     </key>
     <value>
-      <string>Satyr I</string>
+      <string>萨梯 I</string>
     </value>
   </item>
   <item>
@@ -4277,7 +4277,7 @@
       <string>40361</string>
     </key>
     <value>
-      <string>Gram I</string>
+      <string>格拉墨 I</string>
     </value>
   </item>
   <item>
@@ -4285,7 +4285,7 @@
       <string>40362</string>
     </key>
     <value>
-      <string>Ametat I</string>
+      <string>阿米特 I</string>
     </value>
   </item>
   <item>
@@ -4293,7 +4293,7 @@
       <string>40363</string>
     </key>
     <value>
-      <string>Termite I</string>
+      <string>白蚁 I</string>
     </value>
   </item>
   <item>
@@ -4301,7 +4301,7 @@
       <string>40364</string>
     </key>
     <value>
-      <string>Antaeus I</string>
+      <string>安泰 I</string>
     </value>
   </item>
   <item>
@@ -4309,7 +4309,7 @@
       <string>40365</string>
     </key>
     <value>
-      <string>Gungnir I</string>
+      <string>长枪 I</string>
     </value>
   </item>
   <item>
@@ -4317,7 +4317,7 @@
       <string>40552</string>
     </key>
     <value>
-      <string>Equite II</string>
+      <string>骑士 II</string>
     </value>
   </item>
   <item>
@@ -4325,7 +4325,7 @@
       <string>40553</string>
     </key>
     <value>
-      <string>Gram II</string>
+      <string>格拉墨 II</string>
     </value>
   </item>
   <item>
@@ -4333,7 +4333,7 @@
       <string>40554</string>
     </key>
     <value>
-      <string>Locust II</string>
+      <string>蚱蜢 II</string>
     </value>
   </item>
   <item>
@@ -4341,7 +4341,7 @@
       <string>40555</string>
     </key>
     <value>
-      <string>Satyr II</string>
+      <string>萨梯 II</string>
     </value>
   </item>
   <item>
@@ -4349,7 +4349,7 @@
       <string>40556</string>
     </key>
     <value>
-      <string>Templar II</string>
+      <string>圣殿骑士 II</string>
     </value>
   </item>
   <item>
@@ -4357,7 +4357,7 @@
       <string>40557</string>
     </key>
     <value>
-      <string>Dragonfly II</string>
+      <string>蜻蜓 II</string>
     </value>
   </item>
   <item>
@@ -4365,7 +4365,7 @@
       <string>40558</string>
     </key>
     <value>
-      <string>Firbolg II</string>
+      <string>掷矛手 II</string>
     </value>
   </item>
   <item>
@@ -4373,7 +4373,7 @@
       <string>40559</string>
     </key>
     <value>
-      <string>Einherji II</string>
+      <string>因赫吉 II</string>
     </value>
   </item>
   <item>
@@ -4381,7 +4381,7 @@
       <string>40560</string>
     </key>
     <value>
-      <string>Ametat II</string>
+      <string>阿米特 II</string>
     </value>
   </item>
   <item>
@@ -4389,7 +4389,7 @@
       <string>40561</string>
     </key>
     <value>
-      <string>Malleus II</string>
+      <string>槌骨 II</string>
     </value>
   </item>
   <item>
@@ -4397,7 +4397,7 @@
       <string>40562</string>
     </key>
     <value>
-      <string>Antaeus II</string>
+      <string>安泰 II</string>
     </value>
   </item>
   <item>
@@ -4405,7 +4405,7 @@
       <string>40563</string>
     </key>
     <value>
-      <string>Cyclops II</string>
+      <string>独眼巨人 II</string>
     </value>
   </item>
   <item>
@@ -4413,7 +4413,7 @@
       <string>40564</string>
     </key>
     <value>
-      <string>Gungnir II</string>
+      <string>长枪 II</string>
     </value>
   </item>
   <item>
@@ -4421,7 +4421,7 @@
       <string>40565</string>
     </key>
     <value>
-      <string>Tyrfing II</string>
+      <string>斩裂剑 II</string>
     </value>
   </item>
   <item>
@@ -4429,7 +4429,7 @@
       <string>40566</string>
     </key>
     <value>
-      <string>Termite II</string>
+      <string>白蚁 II</string>
     </value>
   </item>
   <item>
@@ -4437,7 +4437,7 @@
       <string>40567</string>
     </key>
     <value>
-      <string>Mantis II</string>
+      <string>螳螂 II</string>
     </value>
   </item>
   <item>
@@ -4445,7 +4445,7 @@
       <string>40568</string>
     </key>
     <value>
-      <string>Cenobite II</string>
+      <string>修道士 II</string>
     </value>
   </item>
   <item>
@@ -4453,7 +4453,7 @@
       <string>40569</string>
     </key>
     <value>
-      <string>Scarab II</string>
+      <string>圣甲虫 II</string>
     </value>
   </item>
   <item>
@@ -4461,7 +4461,7 @@
       <string>40570</string>
     </key>
     <value>
-      <string>Siren II</string>
+      <string>塞壬 II</string>
     </value>
   </item>
   <item>
@@ -4469,7 +4469,7 @@
       <string>40571</string>
     </key>
     <value>
-      <string>Dromi II</string>
+      <string>德洛米 II</string>
     </value>
   </item>
   <item>
@@ -4477,7 +4477,7 @@
       <string>42124</string>
     </key>
     <value>
-      <string>Vehement</string>
+      <string>猛烈级</string>
     </value>
   </item>
   <item>
@@ -4485,7 +4485,7 @@
       <string>42125</string>
     </key>
     <value>
-      <string>Vendetta</string>
+      <string>仇恨级</string>
     </value>
   </item>
   <item>
@@ -4493,7 +4493,7 @@
       <string>42126</string>
     </key>
     <value>
-      <string>Vanquisher</string>
+      <string>征服者级</string>
     </value>
   </item>
   <item>
@@ -4501,7 +4501,7 @@
       <string>42132</string>
     </key>
     <value>
-      <string>Vanguard</string>
+      <string>先锋级</string>
     </value>
   </item>
   <item>
@@ -4509,7 +4509,7 @@
       <string>42133</string>
     </key>
     <value>
-      <string>Venerable</string>
+      <string>尊者级</string>
     </value>
   </item>
   <item>
@@ -4517,7 +4517,7 @@
       <string>42241</string>
     </key>
     <value>
-      <string>Molok</string>
+      <string>摩洛克级</string>
     </value>
   </item>
   <item>
@@ -4525,7 +4525,7 @@
       <string>42242</string>
     </key>
     <value>
-      <string>Dagon</string>
+      <string>大衮级</string>
     </value>
   </item>
   <item>
@@ -4533,7 +4533,7 @@
       <string>42243</string>
     </key>
     <value>
-      <string>Chemosh</string>
+      <string>基抹级</string>
     </value>
   </item>
   <item>
@@ -4541,7 +4541,7 @@
       <string>42244</string>
     </key>
     <value>
-      <string>Porpoise</string>
+      <string>海豚级</string>
     </value>
   </item>
   <item>
@@ -4549,7 +4549,7 @@
       <string>42245</string>
     </key>
     <value>
-      <string>Rabisu</string>
+      <string>拉比苏级</string>
     </value>
   </item>
   <item>
@@ -4557,7 +4557,7 @@
       <string>42246</string>
     </key>
     <value>
-      <string>Caedes</string>
+      <string>凯帝斯级</string>
     </value>
   </item>
   <item>
@@ -4565,7 +4565,7 @@
       <string>42685</string>
     </key>
     <value>
-      <string>Sunesis</string>
+      <string>旭日级</string>
     </value>
   </item>
   <item>
@@ -4573,7 +4573,7 @@
       <string>44993</string>
     </key>
     <value>
-      <string>Pacifier</string>
+      <string>安抚者</string>
     </value>
   </item>
   <item>
@@ -4581,7 +4581,7 @@
       <string>44995</string>
     </key>
     <value>
-      <string>Enforcer</string>
+      <string>执法者级</string>
     </value>
   </item>
   <item>
@@ -4589,7 +4589,7 @@
       <string>44996</string>
     </key>
     <value>
-      <string>Marshal</string>
+      <string>元帅级</string>
     </value>
   </item>
   <item>
@@ -4597,7 +4597,7 @@
       <string>45006</string>
     </key>
     <value>
-      <string>♦ Sotiyo</string>
+      <string>♦ 索迪约</string>
     </value>
   </item>
   <item>
@@ -4605,7 +4605,7 @@
       <string>45530</string>
     </key>
     <value>
-      <string>Virtuoso</string>
+      <string>收藏家级</string>
     </value>
   </item>
   <item>
@@ -4613,7 +4613,7 @@
       <string>45531</string>
     </key>
     <value>
-      <string>Victor</string>
+      <string>胜利者级</string>
     </value>
   </item>
   <item>
@@ -4621,7 +4621,7 @@
       <string>45534</string>
     </key>
     <value>
-      <string>Monitor</string>
+      <string>监视者级</string>
     </value>
   </item>
   <item>
@@ -4629,7 +4629,7 @@
       <string>45645</string>
     </key>
     <value>
-      <string>Loggerhead</string>
+      <string>赤龟级</string>
     </value>
   </item>
   <item>
@@ -4637,7 +4637,7 @@
       <string>45647</string>
     </key>
     <value>
-      <string>Caiman</string>
+      <string>凯门鳄级</string>
     </value>
   </item>
   <item>
@@ -4645,7 +4645,7 @@
       <string>45649</string>
     </key>
     <value>
-      <string>Komodo</string>
+      <string>科莫多级</string>
     </value>
   </item>
   <item>
@@ -4693,7 +4693,7 @@
       <string>46363</string>
     </key>
     <value>
-      <string>Guristas Pirates Stronghold</string>
+      <string>古斯塔斯海盗要塞</string>
     </value>
   </item>
   <item>
@@ -4701,7 +4701,7 @@
       <string>46364</string>
     </key>
     <value>
-      <string>Blood Raiders Stronghold</string>
+      <string>血袭者要塞</string>
     </value>
   </item>
   <item>
@@ -4709,7 +4709,7 @@
       <string>47269</string>
     </key>
     <value>
-      <string>Damavik</string>
+      <string>达玛维克级</string>
     </value>
   </item>
   <item>
@@ -4717,7 +4717,7 @@
       <string>47270</string>
     </key>
     <value>
-      <string>Vedmak</string>
+      <string>维德马克级</string>
     </value>
   </item>
   <item>
@@ -4725,7 +4725,7 @@
       <string>47271</string>
     </key>
     <value>
-      <string>Leshak</string>
+      <string>勒沙克级</string>
     </value>
   </item>
   <item>
@@ -4733,7 +4733,7 @@
       <string>47466</string>
     </key>
     <value>
-      <string>Praxis</string>
+      <string>实践级</string>
     </value>
   </item>
   <item>
@@ -4741,7 +4741,7 @@
       <string>47512</string>
     </key>
     <value>
-      <string>'Moreau' Fortizar</string>
+      <string>&quot;莫罗&quot;铁壁</string>
     </value>
   </item>
   <item>
@@ -4749,7 +4749,7 @@
       <string>47513</string>
     </key>
     <value>
-      <string>'Draccous' Fortizar</string>
+      <string>&quot;德拉库斯&quot;铁壁</string>
     </value>
   </item>
   <item>
@@ -4757,7 +4757,7 @@
       <string>47514</string>
     </key>
     <value>
-      <string>'Horizon' Fortizar</string>
+      <string>&quot;地平线&quot;铁壁</string>
     </value>
   </item>
   <item>
@@ -4765,7 +4765,7 @@
       <string>47515</string>
     </key>
     <value>
-      <string>'Marginis' Fortizar</string>
+      <string>&quot;马金尼斯&quot;铁壁</string>
     </value>
   </item>
   <item>
@@ -4773,7 +4773,7 @@
       <string>47516</string>
     </key>
     <value>
-      <string>'Prometheus' Fortizar</string>
+      <string>&quot;普罗米修斯&quot;铁壁</string>
     </value>
   </item>
   <item>
@@ -4797,7 +4797,7 @@
       <string>48635</string>
     </key>
     <value>
-      <string>Tiamat</string>
+      <string>提亚玛特级</string>
     </value>
   </item>
   <item>
@@ -4805,7 +4805,7 @@
       <string>48636</string>
     </key>
     <value>
-      <string>Hydra</string>
+      <string>九头蛇级</string>
     </value>
   </item>
   <item>
@@ -4813,7 +4813,7 @@
       <string>49710</string>
     </key>
     <value>
-      <string>Kikimora</string>
+      <string>奇奇莫拉级</string>
     </value>
   </item>
   <item>
@@ -4821,7 +4821,7 @@
       <string>49711</string>
     </key>
     <value>
-      <string>Drekavac</string>
+      <string>德雷卡瓦级</string>
     </value>
   </item>
   <item>
@@ -4829,7 +4829,7 @@
       <string>49712</string>
     </key>
     <value>
-      <string>Rodiva</string>
+      <string>洛迪瓦级</string>
     </value>
   </item>
   <item>
@@ -4837,7 +4837,7 @@
       <string>49713</string>
     </key>
     <value>
-      <string>Zarmazd</string>
+      <string>扎玛德级</string>
     </value>
   </item>
   <item>
@@ -4845,7 +4845,7 @@
       <string>52250</string>
     </key>
     <value>
-      <string>Nergal</string>
+      <string>涅伽尔级</string>
     </value>
   </item>
   <item>
@@ -4853,7 +4853,7 @@
       <string>52252</string>
     </key>
     <value>
-      <string>Ikitursa</string>
+      <string>伊基图萨级</string>
     </value>
   </item>
   <item>
@@ -4861,7 +4861,7 @@
       <string>52254</string>
     </key>
     <value>
-      <string>Draugur</string>
+      <string>德拉古级</string>
     </value>
   </item>
   <item>
@@ -4869,7 +4869,7 @@
       <string>52267</string>
     </key>
     <value>
-      <string>Test Site Maller</string>
+      <string>测试地点暴君级</string>
     </value>
   </item>
   <item>
@@ -4877,7 +4877,7 @@
       <string>52907</string>
     </key>
     <value>
-      <string>Zirnitra</string>
+      <string>泽尼塔级</string>
     </value>
   </item>
   <item>
@@ -4885,7 +4885,7 @@
       <string>54731</string>
     </key>
     <value>
-      <string>Skybreaker</string>
+      <string>破天级</string>
     </value>
   </item>
   <item>
@@ -4893,7 +4893,7 @@
       <string>54732</string>
     </key>
     <value>
-      <string>Stormbringer</string>
+      <string>唤风级</string>
     </value>
   </item>
   <item>
@@ -4901,7 +4901,7 @@
       <string>54733</string>
     </key>
     <value>
-      <string>Thunderchild</string>
+      <string>雷裔级</string>
     </value>
   </item>
   <item>
@@ -4909,7 +4909,7 @@
       <string>56701</string>
     </key>
     <value>
-      <string>Mobile Sanguine Harvester</string>
+      <string>移动式生物质收割者</string>
     </value>
   </item>
   <item>
@@ -4917,7 +4917,7 @@
       <string>58745</string>
     </key>
     <value>
-      <string>AIR Civilian Astero</string>
+      <string>星空会民用阿斯特罗级</string>
     </value>
   </item>
   <item>
@@ -4925,7 +4925,7 @@
       <string>60764</string>
     </key>
     <value>
-      <string>Laelaps</string>
+      <string>猎獒级</string>
     </value>
   </item>
   <item>
@@ -4933,7 +4933,7 @@
       <string>60765</string>
     </key>
     <value>
-      <string>Raiju</string>
+      <string>雷兽级</string>
     </value>
   </item>
   <item>
@@ -4941,7 +4941,7 @@
       <string>64034</string>
     </key>
     <value>
-      <string>Boobook</string>
+      <string>鹰鸮级</string>
     </value>
   </item>
   <item>
@@ -4949,7 +4949,7 @@
       <string>71116</string>
     </key>
     <value>
-      <string>Amarr Empire Stronghold</string>
+      <string>艾玛帝国要塞</string>
     </value>
   </item>
   <item>
@@ -4957,7 +4957,7 @@
       <string>71117</string>
     </key>
     <value>
-      <string>Caldari State Stronghold</string>
+      <string>加达里合众国要塞</string>
     </value>
   </item>
   <item>
@@ -4965,7 +4965,7 @@
       <string>71118</string>
     </key>
     <value>
-      <string>Gallente Federation Stronghold</string>
+      <string>盖伦特联邦要塞</string>
     </value>
   </item>
   <item>
@@ -4973,7 +4973,7 @@
       <string>71119</string>
     </key>
     <value>
-      <string>Minmatar Republic Stronghold</string>
+      <string>米玛塔尔共和国要塞</string>
     </value>
   </item>
   <item>
@@ -4981,7 +4981,7 @@
       <string>72811</string>
     </key>
     <value>
-      <string>Cyclone Fleet Issue</string>
+      <string>飓风级舰队型</string>
     </value>
   </item>
   <item>
@@ -4989,7 +4989,7 @@
       <string>72812</string>
     </key>
     <value>
-      <string>Ferox Navy Issue</string>
+      <string>猛鲑级海军型</string>
     </value>
   </item>
   <item>
@@ -4997,7 +4997,7 @@
       <string>72869</string>
     </key>
     <value>
-      <string>Myrmidon Navy Issue</string>
+      <string>弥洱米顿级海军型</string>
     </value>
   </item>
   <item>
@@ -5005,7 +5005,7 @@
       <string>72872</string>
     </key>
     <value>
-      <string>Prophecy Navy Issue</string>
+      <string>先知级海军型</string>
     </value>
   </item>
   <item>
@@ -5013,7 +5013,7 @@
       <string>72903</string>
     </key>
     <value>
-      <string>Probe Fleet Issue</string>
+      <string>探索级舰队型</string>
     </value>
   </item>
   <item>
@@ -5021,7 +5021,7 @@
       <string>72904</string>
     </key>
     <value>
-      <string>Heron Navy Issue</string>
+      <string>苍鹭级海军型</string>
     </value>
   </item>
   <item>
@@ -5029,7 +5029,7 @@
       <string>72907</string>
     </key>
     <value>
-      <string>Magnate Navy Issue</string>
+      <string>富豪级海军型</string>
     </value>
   </item>
   <item>
@@ -5037,7 +5037,7 @@
       <string>72913</string>
     </key>
     <value>
-      <string>Imicus Navy Issue</string>
+      <string>伊米卡斯级海军型</string>
     </value>
   </item>
   <item>
@@ -5045,7 +5045,7 @@
       <string>73787</string>
     </key>
     <value>
-      <string>Naglfar Fleet Issue</string>
+      <string>纳迦法级舰队型</string>
     </value>
   </item>
   <item>
@@ -5053,7 +5053,7 @@
       <string>73789</string>
     </key>
     <value>
-      <string>Coercer Navy Issue</string>
+      <string>强制者级海军型</string>
     </value>
   </item>
   <item>
@@ -5061,7 +5061,7 @@
       <string>73790</string>
     </key>
     <value>
-      <string>Revelation Navy Issue</string>
+      <string>神示级海军型</string>
     </value>
   </item>
   <item>
@@ -5069,7 +5069,7 @@
       <string>73792</string>
     </key>
     <value>
-      <string>Moros Navy Issue</string>
+      <string>莫洛级海军型</string>
     </value>
   </item>
   <item>
@@ -5077,7 +5077,7 @@
       <string>73793</string>
     </key>
     <value>
-      <string>Phoenix Navy Issue</string>
+      <string>凤凰级海军型</string>
     </value>
   </item>
   <item>
@@ -5085,7 +5085,7 @@
       <string>73794</string>
     </key>
     <value>
-      <string>Thrasher Fleet Issue</string>
+      <string>长尾鲛级舰队型</string>
     </value>
   </item>
   <item>
@@ -5093,7 +5093,7 @@
       <string>73795</string>
     </key>
     <value>
-      <string>Cormorant Navy Issue</string>
+      <string>海燕级海军型</string>
     </value>
   </item>
   <item>
@@ -5101,7 +5101,7 @@
       <string>73796</string>
     </key>
     <value>
-      <string>Catalyst Navy Issue</string>
+      <string>促进级海军型</string>
     </value>
   </item>
   <item>
@@ -5109,7 +5109,7 @@
       <string>74141</string>
     </key>
     <value>
-      <string>Geri</string>
+      <string>格里级</string>
     </value>
   </item>
   <item>
@@ -5117,7 +5117,7 @@
       <string>74316</string>
     </key>
     <value>
-      <string>Bestla</string>
+      <string>贝斯特拉</string>
     </value>
   </item>
   <item>
@@ -5125,7 +5125,7 @@
       <string>77114</string>
     </key>
     <value>
-      <string>Metamorphosis</string>
+      <string>变形级</string>
     </value>
   </item>
   <item>
@@ -5133,7 +5133,7 @@
       <string>77726</string>
     </key>
     <value>
-      <string>Cybele</string>
+      <string>西布勒级</string>
     </value>
   </item>
   <item>
@@ -5141,7 +5141,7 @@
       <string>78333</string>
     </key>
     <value>
-      <string>Mekubal</string>
+      <string>梅库巴尔级</string>
     </value>
   </item>
   <item>
@@ -5149,7 +5149,7 @@
       <string>78366</string>
     </key>
     <value>
-      <string>Alligator</string>
+      <string>短吻鳄级</string>
     </value>
   </item>
   <item>
@@ -5157,7 +5157,7 @@
       <string>78367</string>
     </key>
     <value>
-      <string>Mamba</string>
+      <string>曼巴级</string>
     </value>
   </item>
   <item>
@@ -5165,7 +5165,7 @@
       <string>78369</string>
     </key>
     <value>
-      <string>Khizriel</string>
+      <string>希兹里尔级</string>
     </value>
   </item>
   <item>
@@ -5173,7 +5173,7 @@
       <string>78414</string>
     </key>
     <value>
-      <string>Shapash</string>
+      <string>沙帕什级</string>
     </value>
   </item>
   <item>
@@ -5181,7 +5181,7 @@
       <string>78576</string>
     </key>
     <value>
-      <string>Azariel</string>
+      <string>阿扎里尔级</string>
     </value>
   </item>
   <item>
@@ -5189,7 +5189,7 @@
       <string>81008</string>
     </key>
     <value>
-      <string>Squall</string>
+      <string>狂风级</string>
     </value>
   </item>
   <item>
@@ -5197,7 +5197,7 @@
       <string>81040</string>
     </key>
     <value>
-      <string>Avalanche</string>
+      <string>雪崩级</string>
     </value>
   </item>
   <item>
@@ -5205,7 +5205,7 @@
       <string>81046</string>
     </key>
     <value>
-      <string>Deluge</string>
+      <string>洪水级</string>
     </value>
   </item>
   <item>
@@ -5213,7 +5213,7 @@
       <string>81047</string>
     </key>
     <value>
-      <string>Torrent</string>
+      <string>湍流级</string>
     </value>
   </item>
   <item>
@@ -5221,7 +5221,7 @@
       <string>81951</string>
     </key>
     <value>
-      <string>Consortium Mobile Tractor Unit</string>
+      <string>财团移动式牵引装置</string>
     </value>
   </item>
   <item>
@@ -5229,7 +5229,7 @@
       <string>83579</string>
     </key>
     <value>
-      <string>Imperial Navy Templar</string>
+      <string>圣殿骑士级帝国海军</string>
     </value>
   </item>
   <item>
@@ -5237,7 +5237,7 @@
       <string>83582</string>
     </key>
     <value>
-      <string>Caldari Navy Dragonfly</string>
+      <string>蜻蜓级加达里海军</string>
     </value>
   </item>
   <item>
@@ -5245,7 +5245,7 @@
       <string>83583</string>
     </key>
     <value>
-      <string>Federation Navy Firbolg</string>
+      <string>联邦海军掷矛手舰载机</string>
     </value>
   </item>
   <item>
@@ -5253,7 +5253,7 @@
       <string>83584</string>
     </key>
     <value>
-      <string>Republic Fleet Einherji</string>
+      <string>共和舰队因赫吉舰载机</string>
     </value>
   </item>
   <item>
@@ -5261,7 +5261,7 @@
       <string>83585</string>
     </key>
     <value>
-      <string>Imperial Navy Equite</string>
+      <string>帝国海军骑士</string>
     </value>
   </item>
   <item>
@@ -5269,7 +5269,7 @@
       <string>83586</string>
     </key>
     <value>
-      <string>Caldari Navy Locust</string>
+      <string>加达里海军蚱蜢</string>
     </value>
   </item>
   <item>
@@ -5277,7 +5277,7 @@
       <string>83587</string>
     </key>
     <value>
-      <string>Federation Navy Satyr</string>
+      <string>联邦海军萨梯</string>
     </value>
   </item>
   <item>
@@ -5285,7 +5285,7 @@
       <string>83589</string>
     </key>
     <value>
-      <string>Republic Fleet Gram</string>
+      <string>共和舰队格拉墨</string>
     </value>
   </item>
   <item>
@@ -5293,7 +5293,7 @@
       <string>83591</string>
     </key>
     <value>
-      <string>Imperial Navy Cenobite</string>
+      <string>帝国海军修道士</string>
     </value>
   </item>
   <item>
@@ -5301,7 +5301,7 @@
       <string>83592</string>
     </key>
     <value>
-      <string>Caldari Navy Scarab</string>
+      <string>加达里海军圣甲虫</string>
     </value>
   </item>
   <item>
@@ -5309,7 +5309,7 @@
       <string>83593</string>
     </key>
     <value>
-      <string>Federation Navy Siren</string>
+      <string>联邦海军塞壬</string>
     </value>
   </item>
   <item>
@@ -5317,7 +5317,7 @@
       <string>83594</string>
     </key>
     <value>
-      <string>Republic Fleet Dromi</string>
+      <string>共和舰队德洛米</string>
     </value>
   </item>
   <item>
@@ -5325,7 +5325,7 @@
       <string>85062</string>
     </key>
     <value>
-      <string>Sidewinder</string>
+      <string>侧进蛇级</string>
     </value>
   </item>
   <item>
@@ -5333,7 +5333,7 @@
       <string>85086</string>
     </key>
     <value>
-      <string>Cenotaph</string>
+      <string>纪念碑级</string>
     </value>
   </item>
   <item>
@@ -5341,7 +5341,7 @@
       <string>85087</string>
     </key>
     <value>
-      <string>Tholos</string>
+      <string>穹顶级</string>
     </value>
   </item>
   <item>
@@ -5349,7 +5349,7 @@
       <string>85229</string>
     </key>
     <value>
-      <string>Cobra</string>
+      <string>眼镜蛇级</string>
     </value>
   </item>
   <item>
@@ -5357,7 +5357,7 @@
       <string>85236</string>
     </key>
     <value>
-      <string>Python</string>
+      <string>巨蟒级</string>
     </value>
   </item>
   <item>
@@ -5365,7 +5365,7 @@
       <string>87381</string>
     </key>
     <value>
-      <string>Sarathiel</string>
+      <string>萨拉希尔</string>
     </value>
   </item>
   <item>
@@ -5373,7 +5373,7 @@
       <string>88001</string>
     </key>
     <value>
-      <string>Babaroga</string>
+      <string>巴巴罗加号</string>
     </value>
   </item>
   <item>
@@ -5381,31 +5381,7 @@
       <string>89240</string>
     </key>
     <value>
-      <string>Pioneer</string>
-    </value>
-  </item>
-  <item>
-    <key>
-      <string>89649</string>
-    </key>
-    <value>
-      <string>Outrider</string>
-    </value>
-  </item>
-  <item>
-    <key>
-      <string>89648</string>
-    </key>
-    <value>
-      <string>Venture Consortium Issue</string>
-    </value>
-  </item>
-  <item>
-    <key>
-      <string>89647</string>
-    </key>
-    <value>
-      <string>Pioneer Consortium Issue</string>
+      <string>开拓者级</string>
     </value>
   </item>
   <item>
@@ -5413,15 +5389,39 @@
       <string>89607</string>
     </key>
     <value>
-      <string>Odysseus</string>
+      <string>奥德修斯级</string>
     </value>
   </item>
-  <item><key><string>57319</string></key><value><string>Mobile Cynosural Beacon</string></value></item>
-  <item><key><string>58906</string></key><value><string>Highsec Authorized Mobile Cynosural Beacon</string></value></item>
-  <item><key><string>59630</string></key><value><string>Covert Mobile Cynosural Beacon</string></value></item>
-  <item><key><string>58904</string></key><value><string>Mobile Observatory</string></value></item>
-  <item><key><string>55914</string></key><value><string>Encounter Surveillance System</string></value></item>
-  <item><key><string>60244</string></key><value><string>CONCORD Rogue Analysis Beacon</string></value></item>
-  <item><key><string>60459</string></key><value><string>Rogue Drone Infestation Data</string></value></item>
-  <item><key><string>92183</string></key><value><string>CONCORD-Carrier Rogue Analysis Beacon</string></value></item>
+  <item>
+    <key>
+      <string>89647</string>
+    </key>
+    <value>
+      <string>开拓者级财团型</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>89648</string>
+    </key>
+    <value>
+      <string>冲锋者级财团型</string>
+    </value>
+  </item>
+  <item>
+    <key>
+      <string>89649</string>
+    </key>
+    <value>
+      <string>先驱级</string>
+    </value>
+  </item>
+  <item><key><string>57319</string></key><value><string>移动式诱导信标</string></value></item>
+  <item><key><string>58906</string></key><value><string>高安特许移动诱导信标</string></value></item>
+  <item><key><string>59630</string></key><value><string>隐秘移动式诱导信标</string></value></item>
+  <item><key><string>58904</string></key><value><string>移动观测站</string></value></item>
+  <item><key><string>55914</string></key><value><string>事件监测装置</string></value></item>
+  <item><key><string>60244</string></key><value><string>统合部自由分析信标</string></value></item>
+  <item><key><string>60459</string></key><value><string>自由无人机滋生数据</string></value></item>
+  <item><key><string>92183</string></key><value><string>统合部航空母舰自由分析信标</string></value></item>
 </dictionary>

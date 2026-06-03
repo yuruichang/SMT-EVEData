@@ -55,6 +55,21 @@ namespace ZKBData
 
         [JsonProperty("victim")]
         public Victim Victim { get; set; }
+
+        [JsonProperty("attackers")]
+        public List<Attacker> Attackers { get; set; }
+    }
+
+    public partial class Attacker
+    {
+        [JsonProperty("alliance_id", NullValueHandling = NullValueHandling.Ignore)]
+        public int AllianceId { get; set; }
+
+        [JsonProperty("character_id", NullValueHandling = NullValueHandling.Ignore)]
+        public int CharacterId { get; set; }
+
+        [JsonProperty("corporation_id", NullValueHandling = NullValueHandling.Ignore)]
+        public int CorporationId { get; set; }
     }
 
     public partial class Victim

@@ -32,7 +32,7 @@ namespace SMT.EVEData
             // text will be in the format ﻿[ 2017.05.01 18:24:28 ] Charname > blah, blah blah
             int start = intelText.IndexOf('>') + 1;
             IntelString = intelText.Substring(start);
-            IntelTime = DateTime.Now;
+            IntelTime = DateTime.UtcNow;
             Systems = new List<string>();
             ClearNotification = false;
             IntelChannel = intelChannel;

@@ -91,12 +91,12 @@ namespace SMT.EVEData
                         ZKBData.SequenceData seqData = ZKBData.SequenceData.FromJson(seqContent);
                         if (seqData != null)
                         {
-                            currentSequence = seqData.Sequence;
+                            currentSequence = seqData.Sequence + 1;
                         }
                     }
                     if (currentSequence == 0)
                     {
-                        nextPollTime = DateTime.Now.AddSeconds(6);
+                        nextPollTime = DateTime.Now.AddSeconds(2);
                         e.Result = 0;
                         return;
                     }
@@ -107,7 +107,7 @@ namespace SMT.EVEData
 
                 if (response.StatusCode == HttpStatusCode.NotFound)
                 {
-                    nextPollTime = DateTime.Now.AddSeconds(6);
+                    nextPollTime = DateTime.Now.AddSeconds(2);
                     e.Result = 0;
                     return;
                 }
@@ -130,9 +130,10 @@ namespace SMT.EVEData
                         zs.VictimCharacterID = r2z2Data.Esi.Victim.CharacterId;
                         zs.VictimCorpID = r2z2Data.Esi.Victim.CorporationId;
                         zs.SystemName = EveManager.Instance.GetEveSystemNameFromID((int)r2z2Data.Esi.SolarSystemId);
-                        zs.KillTime = r2z2Data.Esi.KillmailTime.ToLocalTime();
+                        zs.KillTime = r2z2Data.Esi.KillmailTime;
 
-                        string shipID = r2z2Data.Esi.Victim.ShipTypeId.ToString();
+                        zs.ShipTypeID = r2z2Data.Esi.Victim.ShipTypeId;
+                        string shipID = zs.ShipTypeID.ToString();
                         if(EveManager.Instance.ShipTypes.ContainsKey(shipID))
                         {
                             zs.ShipType = EveManager.Instance.ShipTypes[shipID];
@@ -143,8 +144,25 @@ namespace SMT.EVEData
                         }
 
                         zs.VictimAllianceName = EveManager.Instance.GetAllianceName(zs.VictimAllianceID);
+                        zs.TotalValue = r2z2Data.Zkb?.TotalValue ?? 0;
+                        zs.Hash = r2z2Data.Hash;
+                        zs.VictimName = EveManager.Instance.GetCharacterName(zs.VictimCharacterID);
+
+                        // Collect distinct attacker alliance IDs
+                        if (r2z2Data.Esi.Attackers != null)
+                        {
+                            var seen = new HashSet<int>();
+                            foreach (var a in r2z2Data.Esi.Attackers)
+                            {
+                                if (a.AllianceId != 0 && seen.Add(a.AllianceId))
+                                    zs.AttackerAllianceIDs.Add(a.AllianceId);
+                            }
+                        }
 
                         KillStream.Insert(0, zs);
+                        // Sort by actual kill time descending (newest first) —
+                        // ZKB API may deliver kills out of order due to latency.
+                        KillStream.Sort((a, b) => b.KillTime.CompareTo(a.KillTime));
 
                         if(KillsAddedEvent != null)
                         {
@@ -174,6 +192,21 @@ namespace SMT.EVEData
             bool updatedKillList = false;
 
             List<int> AllianceIDs = new List<int>();
+            List<int> CharacterIDs = new List<int>();
+            List<int> CorporationIDs = new List<int>();
+
+            for(int i = KillStream.Count - 1; i >= 0; i--)
+            {
+                // Resolve attacker alliance IDs
+                foreach (var attAllianceID in KillStream[i].AttackerAllianceIDs)
+                {
+                    if (string.IsNullOrEmpty(EveManager.Instance.GetAllianceTicker(attAllianceID)) &&
+                        !AllianceIDs.Contains(attAllianceID))
+                    {
+                        AllianceIDs.Add(attAllianceID);
+                    }
+                }
+            }
 
             for(int i = KillStream.Count - 1; i >= 0; i--)
             {
@@ -189,7 +222,34 @@ namespace SMT.EVEData
                     }
                 }
 
-                if(KillStream[i].KillTime + TimeSpan.FromMinutes(KillExpireTimeMinutes) < DateTimeOffset.Now)
+                if(string.IsNullOrEmpty(KillStream[i].VictimName) && KillStream[i].VictimCharacterID != 0)
+                {
+                    string resolved = EveManager.Instance.GetCharacterName(KillStream[i].VictimCharacterID);
+                    if(!string.IsNullOrEmpty(resolved))
+                    {
+                        KillStream[i].VictimName = resolved;
+                    }
+                    else if(!CharacterIDs.Contains(KillStream[i].VictimCharacterID))
+                    {
+                        CharacterIDs.Add(KillStream[i].VictimCharacterID);
+                    }
+                }
+
+                if (KillStream[i].VictimCorpID != 0)
+                {
+                    string corpName = EveManager.Instance.GetCorporationName(KillStream[i].VictimCorpID);
+                    if (!string.IsNullOrEmpty(corpName))
+                    {
+                        if (KillStream[i].VictimCorpName != corpName)
+                            KillStream[i].VictimCorpName = corpName;
+                    }
+                    else if (!CorporationIDs.Contains(KillStream[i].VictimCorpID))
+                    {
+                        CorporationIDs.Add(KillStream[i].VictimCorpID);
+                    }
+                }
+
+                if(KillStream[i].KillTime + TimeSpan.FromMinutes(KillExpireTimeMinutes) < DateTimeOffset.UtcNow)
                 {
                     KillStream.RemoveAt(i);
 
@@ -199,6 +259,14 @@ namespace SMT.EVEData
             if(AllianceIDs.Count > 0)
             {
                 EveManager.Instance.ResolveAllianceIDs(AllianceIDs);
+            }
+            if(CharacterIDs.Count > 0)
+            {
+                _ = EveManager.Instance.ResolveCharacterIDs(CharacterIDs);
+            }
+            if(CorporationIDs.Count > 0)
+            {
+                _ = EveManager.Instance.ResolveCorporationIDs(CorporationIDs);
             }
 
             if(updatedKillList)
@@ -216,6 +284,11 @@ namespace SMT.EVEData
         /// </summary>
         public class ZKBDataSimple : INotifyPropertyChanged
         {
+            /// <summary>
+            /// When true, KillTimeDisplay shows local time instead of UTC.
+            /// </summary>
+            public static bool DisplayLocalTime { get; set; } = false;
+
             private string m_victimAllianceName;
 
             public event PropertyChangedEventHandler PropertyChanged;
@@ -226,19 +299,109 @@ namespace SMT.EVEData
             public long KillID { get; set; }
 
             /// <summary>
+            /// Gets or sets the killmail hash for in-game linking
+            /// </summary>
+            public string Hash { get; set; }
+
+            /// <summary>
+            /// Gets or sets the victim's character name
+            /// </summary>
+            public string VictimName
+            {
+                get => m_victimName;
+                set
+                {
+                    m_victimName = value;
+                    OnPropertyChanged(nameof(VictimName));
+                }
+            }
+            private string m_victimName;
+
+            /// <summary>
             /// Gets or sets the time of the kill
             /// </summary>
             public DateTimeOffset KillTime { get; set; }
 
             /// <summary>
-            /// Gets or sets the Ship Lost in this kill
+            /// Gets the formatted kill time. Shows local time when DisplayLocalTime is true, otherwise UTC.
             /// </summary>
-            public string ShipType { get; set; }
+            public string KillTimeDisplay
+            {
+                get
+                {
+                    if (DisplayLocalTime)
+                        return KillTime.LocalDateTime.ToString("HH:mm:ss");
+                    return KillTime.UtcDateTime.ToString("HH:mm:ss");
+                }
+            }
+
+            /// <summary>
+            /// Gets or sets the Ship Type ID from the kill mail
+            /// </summary>
+            public int ShipTypeID { get; set; }
+
+            private string m_shipType;
+
+            /// <summary>
+            /// Gets or sets the Ship Lost in this kill (English name)
+            /// </summary>
+            public string ShipType
+            {
+                get => m_shipType;
+                set
+                {
+                    m_shipType = value;
+                    OnPropertyChanged("ShipType");
+                    OnPropertyChanged("ShipTypeDisplay");
+                }
+            }
+
+            /// <summary>
+            /// Gets the ship type name in the current display language
+            /// </summary>
+            public string ShipTypeDisplay
+            {
+                get
+                {
+                    if (EveManager.CurrentLanguage == "zh-CN" &&
+                        EveManager.Instance != null &&
+                        EveManager.Instance.ShipTypesCN != null &&
+                        EveManager.Instance.ShipTypesCN.ContainsKey(ShipTypeID.ToString()))
+                    {
+                        return EveManager.Instance.ShipTypesCN[ShipTypeID.ToString()];
+                    }
+                    return ShipType;
+                }
+            }
+
+            /// <summary>
+            /// Notify that ShipTypeDisplay may have changed (e.g. after language change or CN names loaded)
+            /// </summary>
+            public void RefreshShipTypeDisplay()
+            {
+                OnPropertyChanged("ShipTypeDisplay");
+            }
 
             /// <summary>
             /// Gets or sets the System ID the kill was in
             /// </summary>
             public string SystemName { get; set; }
+
+            /// <summary>
+            /// Gets the region name for this kill's system
+            /// </summary>
+            public string RegionName
+            {
+                get
+                {
+                    var sys = EveManager.Instance?.GetEveSystem(SystemName);
+                    if (sys == null) return "";
+                    if (EveManager.CurrentLanguage == "zh-CN" &&
+                        EveManager.Translations.TryGetValue(sys.Region, out var zhRegion))
+                        return zhRegion;
+                    return sys.Region;
+                }
+            }
 
             /// <summary>
             /// Gets or sets the Victims Alliance ID
@@ -258,7 +421,34 @@ namespace SMT.EVEData
                 {
                     m_victimAllianceName = value;
                     OnPropertyChanged("VictimAllianceName");
+                    OnPropertyChanged("AllianceDisplay");
                 }
+            }
+
+            /// <summary>
+            /// Gets the alliance ticker (abbreviation) for display, falling back to the full name
+            /// if the ticker hasn't been resolved yet.
+            /// </summary>
+            public string AllianceDisplay
+            {
+                get
+                {
+                    if (EveManager.Instance != null && VictimAllianceID != 0)
+                    {
+                        string ticker = EveManager.Instance.GetAllianceTicker(VictimAllianceID);
+                        if (!string.IsNullOrEmpty(ticker))
+                            return ticker;
+                    }
+                    return VictimAllianceName;
+                }
+            }
+
+            /// <summary>
+            /// Notify that AllianceDisplay may have changed (e.g. after ticker resolution)
+            /// </summary>
+            public void RefreshAllianceDisplay()
+            {
+                OnPropertyChanged("AllianceDisplay");
             }
 
             /// <summary>
@@ -270,6 +460,113 @@ namespace SMT.EVEData
             /// Gets or sets the Victim's corp ID
             /// </summary>
             public int VictimCorpID { get; set; }
+
+            private string m_victimCorpName;
+            /// <summary>
+            /// Gets or sets the Victim's corporation name
+            /// </summary>
+            public string VictimCorpName
+            {
+                get => m_victimCorpName;
+                set
+                {
+                    m_victimCorpName = value;
+                    OnPropertyChanged(nameof(VictimCorpName));
+                    OnPropertyChanged(nameof(CorpDisplay));
+                }
+            }
+
+            /// <summary>
+            /// Gets the corporation ticker for display, falling back to the full name
+            /// </summary>
+            public string CorpDisplay
+            {
+                get
+                {
+                    if (EveManager.Instance != null && VictimCorpID != 0)
+                    {
+                        string ticker = EveManager.Instance.GetCorporationTicker(VictimCorpID);
+                        if (!string.IsNullOrEmpty(ticker))
+                            return ticker;
+                    }
+                    return VictimCorpName;
+                }
+            }
+
+            public void RefreshCorpDisplay()
+            {
+                OnPropertyChanged(nameof(CorpDisplay));
+            }
+
+            /// <summary>
+            /// Gets the distinct attacker alliance IDs for this kill
+            /// </summary>
+            public List<int> AttackerAllianceIDs { get; set; } = new();
+
+            /// <summary>
+            /// Gets the distinct attacker alliance tickers for display, separated by "/"
+            /// Groups 3 per line with "\n" to prevent excessively wide/tall rows.
+            /// </summary>
+            public string AttackerAlliancesDisplay
+            {
+                get
+                {
+                    var tickers = new List<string>();
+                    foreach (var id in AttackerAllianceIDs)
+                    {
+                        if (EveManager.Instance == null) continue;
+                        string t = EveManager.Instance.GetAllianceTicker(id);
+                        if (!string.IsNullOrEmpty(t))
+                            tickers.Add(t);
+                        else
+                        {
+                            string name = EveManager.Instance.GetAllianceName(id);
+                            if (!string.IsNullOrEmpty(name) && !tickers.Contains(name))
+                                tickers.Add(name);
+                        }
+                    }
+
+                    if (tickers.Count == 0) return "";
+
+                    var lines = new List<string>();
+                    for (int i = 0; i < tickers.Count; i += 3)
+                    {
+                        lines.Add(string.Join("/", tickers.Skip(i).Take(3)));
+                    }
+                    return string.Join("\n", lines);
+                }
+            }
+
+            /// <summary>
+            /// Notify that AttackerAlliancesDisplay may have changed (e.g. after ticker resolution)
+            /// </summary>
+            public void RefreshAttackerAlliancesDisplay()
+            {
+                OnPropertyChanged("AttackerAlliancesDisplay");
+            }
+
+            /// <summary>
+            /// Gets or sets the total ISK value of the destroyed items + fitted items
+            /// </summary>
+            public double TotalValue { get; set; }
+
+            /// <summary>
+            /// Gets the formatted total value string (e.g. "123.4M" or "1.2B")
+            /// </summary>
+            public string TotalValueDisplay
+            {
+                get
+                {
+                    if (TotalValue <= 0) return "-";
+                    if (TotalValue >= 1_000_000_000)
+                        return $"{TotalValue / 1_000_000_000:F2}B";
+                    if (TotalValue >= 1_000_000)
+                        return $"{TotalValue / 1_000_000:F2}M";
+                    if (TotalValue >= 1_000)
+                        return $"{TotalValue / 1_000:F1}K";
+                    return TotalValue.ToString("F0");
+                }
+            }
 
             public override string ToString()
             {
